@@ -1,13 +1,15 @@
 from django.db import models
+from parler.models import TranslatableModel, TranslatedFields
 
 # Create your models here.
-class FrontendProject(models.Model):
-    title = models.CharField(max_length=100)
-    description = models.TextField()
-    image = models.ImageField(upload_to='frontend_projects')
-    github_link = models.URLField()
-    live_link = models.URLField()
-
+class FrontendProject(TranslatableModel):
+    TranslatedFields(
+    title = models.CharField(max_length=100),
+    description = models.TextField(),
+    image = models.ImageField(upload_to='frontend_projects'),
+    github_link = models.URLField(),
+    live_link = models.URLField(),
+    )
     def __str__(self):
         return self.title
     
