@@ -1,15 +1,11 @@
 from rest_framework import serializers
 
-from .models import FrontendProject, BackendProject, AboutMe, Skill, Contact
+from .models import Project, AboutMe, Skill, Contact
 
-class FrontendProjectSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = FrontendProject
-        fields = '__all__'
 
-class BackendProjectSerializer(serializers.ModelSerializer):
+class ProjectSerializer(serializers.ModelSerializer):
     class Meta:
-        model = BackendProject
+        model = Project
         fields = '__all__'
 
 class AboutMeSerializer(serializers.ModelSerializer):

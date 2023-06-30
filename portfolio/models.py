@@ -1,26 +1,23 @@
 from django.db import models
 
 # Create your models here.
-class FrontendProject(models.Model):
+class Project(models.Model):
     title = models.CharField(max_length=100)
     description = models.TextField()
     image = models.ImageField(upload_to='frontend_projects')
     github_link = models.URLField()
     live_link = models.URLField()
 
+    _choices = (
+        ('frontend', 'Frontend'),
+        ('backend', 'Backend'),
+        ('both', 'Frontend and Backend')
+    )
+    types = models.CharField(max_length=100, choices=_choices)
+
     def __str__(self):
         return self.title
     
-class BackendProject(models.Model):
-    title = models.CharField(max_length=100)
-    description = models.TextField()
-    image = models.ImageField(upload_to='backend_projects')
-    github_link = models.URLField()
-    live_link = models.URLField()
-
-    def __str__(self):
-        return self.title
-
 class AboutMe(models.Model):
     title = models.CharField(max_length=100)
     description = models.TextField()

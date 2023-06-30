@@ -1,17 +1,31 @@
 from rest_framework import viewsets
+from django.db.models import Q
 # Create your views here.
-from .models import FrontendProject, BackendProject, AboutMe, Skill, Contact
+from .models import Project, AboutMe, Skill, Contact
 
-from .serializers import FrontendProjectSerializer, BackendProjectSerializer, AboutMeSerializer, SkillSerializer, ContactSerializer
+from .serializers import ProjectSerializer, AboutMeSerializer, SkillSerializer, ContactSerializer
 
+class FrontendViewSet(viewsets.ReadOnlyModelViewSet):
+    queryset = Project.objects.all()
+    serializer_class = ProjectSerializer
 
-class FrontendProjectViewSet(viewsets.ReadOnlyModelViewSet):
-    queryset = FrontendProject.objects.all()
-    serializer_class = FrontendProjectSerializer
+    def get_queryset(self):
+        queryset = Project.objects.filter(Q(types='frontend') | Q(types='both'))
 
-class BackendProjectViewSet(viewsets.ReadOnlyModelViewSet):
-    queryset = BackendProject.objects.all()
-    serializer_class = BackendProjectSerializer
+        return queryset
+    
+class BackendViewSet(viewsets.ReadOnlyModelViewSet):
+    queryset = Project.objects.all()
+    serializer_class = ProjectSerializer
+
+    def get_queryset(self):
+        queryset = Project.objects.filter(Q(types='backend') | Q(types='both'))
+        
+        return queryset
+
+class ProjectViewSet(viewsets.ReadOnlyModelViewSet):
+    queryset = Project.objects.all()
+    serializer_class = ProjectSerializer
 
 class AboutMeViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = AboutMe.objects.all()
