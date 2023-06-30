@@ -2,3 +2,4 @@ django
 djangorestframework
 pillow
 django-modeltranslation
+django-cors-headers
