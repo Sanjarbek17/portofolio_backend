@@ -29,7 +29,7 @@ class AboutMe(models.Model):
 class Skill(models.Model):
     title = models.CharField(max_length=100)
     description = models.TextField()
-    icon = models.ImageField(upload_to='skill')
+    icon = models.FileField(upload_to='skill')
 
     def __str__(self):
         return self.title
@@ -38,4 +38,4 @@ class Skill(models.Model):
 class Contact(models.Model):
     name = models.CharField(max_length=100)
     link = models.URLField()
-    icon = models.ImageField(upload_to='contact')
+    icon = models.FileField(upload_to='contact')
