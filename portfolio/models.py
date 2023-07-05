@@ -31,6 +31,13 @@ class Skill(models.Model):
     description = models.TextField()
     icon = models.FileField(upload_to='skill')
 
+    _choices = (
+        ('frontend', 'Frontend'),
+        ('backend', 'Backend'),
+        ('both', 'Frontend and Backend')
+    )
+    types = models.CharField(max_length=100, choices=_choices, default='frontend')
+
     def __str__(self):
         return self.title
     
