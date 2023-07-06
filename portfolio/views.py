@@ -36,6 +36,25 @@ class SkillViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Skill.objects.all()
     serializer_class = SkillSerializer
 
+class FrontendSkillViewSet(viewsets.ReadOnlyModelViewSet):
+    queryset = Skill.objects.all()
+    serializer_class = SkillSerializer
+
+    def get_queryset(self):
+        queryset = Skill.objects.filter(Q(types='frontend') | Q(types='both'))
+
+        return queryset
+
+class BackendSkillViewSet(viewsets.ReadOnlyModelViewSet):
+    queryset = Skill.objects.all()
+    serializer_class = SkillSerializer
+
+    def get_queryset(self):
+        queryset = Skill.objects.filter(Q(types='backend') | Q(types='both'))
+
+        return queryset
+    
+
 
 class ContactViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Contact.objects.all()
