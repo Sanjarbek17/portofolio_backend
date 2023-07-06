@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['sanjarbek1718.pythonanywhere.com']
 
 
-CORS_ALLOWED_ORIGINS = []
+CORS_ALLOWED_ORIGINS = ['sanjarbek1718.pythonanywhere.com']
 
 # Application definition
 
