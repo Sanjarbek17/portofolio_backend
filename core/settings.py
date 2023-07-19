@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['sanjarbek1718.pythonanywhere.com']
 
 
-CORS_ALLOWED_ORIGINS = ['https://*']
+CORS_ALLOWED_ORIGINS = ['http://localhost:61023']
 CORS_ALLOW_ALL_ORIGINS = True
 
 # Application definition
