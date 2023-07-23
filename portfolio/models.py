@@ -13,7 +13,7 @@ class Project(models.Model):
         ('backend', 'Backend'),
         ('both', 'Frontend and Backend')
     )
-    types = models.CharField(max_length=100, choices=_choices)
+    types = models.CharField(max_length=100, choices=_choices, default='frontend')
 
     def __str__(self):
         return self.title
