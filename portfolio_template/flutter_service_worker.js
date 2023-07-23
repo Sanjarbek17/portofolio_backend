@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a9354f28840bc2e1968a5f09d4d6a946",
-"assets/AssetManifest.json": "8888c778dc3db0329053c05016156c7a",
+const RESOURCES = {"assets/AssetManifest.bin": "64c2ed66f610bfae601cb8d571359b28",
+"assets/AssetManifest.json": "1efeea9d67d59644973290b499720b7b",
 "assets/assets/frontend/images/aboutme.png": "36c23d8c8a41bed98f09722cbbf8abaa",
 "assets/assets/frontend/images/avatar.png": "566b2c6d3662a09cf3674d0978ef3067",
 "assets/assets/frontend/images/project.png": "0d4b8083804bf812ffa86ec3f4ec77d5",
@@ -22,7 +22,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a9354f28840bc2e1968a5f09d4d6a946
 "assets/fonts/Sen-Bold.ttf": "aee4d23fe0364c8c26d45cc0af3c8e99",
 "assets/fonts/Sen-ExtraBold.ttf": "972534ccb4ee3367d819ed8a1a2d6847",
 "assets/fonts/Sen-Regular.ttf": "782403861feb1b772dd57e0cd9ef2496",
-"assets/NOTICES": "197cf6bc393110041bb1410ffc652420",
+"assets/NOTICES": "f65792fdbc72ff038eb9408823a9203f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -38,9 +38,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "a9354f28840bc2e1968a5f09d4d6a946
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a0269797f0b67ed43e4506fd7ea2664c",
-"/": "a0269797f0b67ed43e4506fd7ea2664c",
-"main.dart.js": "424f57744d345bb9593ae758ab988609",
+"index.html": "8abc0971a5e71b0ab3ee0ec9278c4684",
+"/": "8abc0971a5e71b0ab3ee0ec9278c4684",
+"main.dart.js": "ce9203e1a1cf7d8afbb77dbce6fb5be6",
 "manifest.json": "ee0d158f6473b3c4cc56c98faf2d2616",
 "migrations/__init__.py": "d41d8cd98f00b204e9800998ecf8427e",
 "migrations/__pycache__/__init__.cpython-311.pyc": "3003a081f9806acb8ad5779eb01e7e6e",
