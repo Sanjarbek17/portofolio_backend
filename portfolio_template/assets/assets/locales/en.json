@@ -25,5 +25,10 @@
     "Sanjarbek": "Sanjarbek",
     "Fun fact I'm also backend developer": "Fun fact I'm also backend developer",
     "Media": "Media",
-    "© 2021 Sanjarbek Saidov. All rights reserved.": "© 2021 Sanjarbek Saidov. All rights reserved."
+    "© 2021 Sanjarbek Saidov. All rights reserved.": "© 2021 Sanjarbek Saidov. All rights reserved.",
+    "Message sent successfully": "Message sent successfully",
+    "Message sending failed": "Message sending failed",
+    "Name cannot be empty": "Name cannot be empty",
+    "Email cannot be empty": "Email cannot be empty",
+    "Message cannot be empty": "Message cannot be empty"
 }

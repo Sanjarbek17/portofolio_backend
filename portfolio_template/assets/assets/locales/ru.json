@@ -28,5 +28,7 @@
     "© 2021 Sanjarbek Saidov. All rights reserved.": "© 2021 Санжарбек Саидов. Все права защищены.",
     "Name cannot be empty": "Имя не может быть пустым",
     "Email cannot be empty": "Электронная почта не может быть пустой",
-    "Message cannot be empty": "Сообщение не может быть пустым"
+    "Message cannot be empty": "Сообщение не может быть пустым",
+    "Message sent successfully": "Сообщение успешно отправлено",
+    "Message sending failed": "Ошибка отправки сообщения"
 }
