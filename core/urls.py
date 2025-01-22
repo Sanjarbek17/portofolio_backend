@@ -17,7 +17,7 @@ def flutter_redirect(request, resource):
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('portfolio_template/', lambda r: flutter_redirect(r, 'index.html')),
-    path('portfolio_template/<path:resource>', flutter_redirect),
+    path('/', lambda r: flutter_redirect(r, 'index.html')),
+    path('/<path:resource>', flutter_redirect),
     path('', include('portfolio.urls'), name='portfolio'),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
