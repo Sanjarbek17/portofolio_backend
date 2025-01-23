@@ -26170,7 +26170,7 @@ $.d3().wN(new A.aCI(),t.l)
 $.d3().wO(new A.aCJ(),t.nZ)
 $.d3().wO(new A.aCK(),t.AC)
 $.d3().wO(new A.aCL(),t.YX)
-q=A.aDk("https://sanjarbek17.uz/",null,B.nD,B.nD)
+q=A.aDk("https://www.sanjarbek17.uz/",null,B.nD,B.nD)
 $.d3().wO(new A.aCM(q),t.kE)
 s=2
 return A.x(A.Sn(),$async$aCD)
