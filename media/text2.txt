@@ -1,2800 +1,3604 @@
-Deshifrlash uchun kalit va ..... kerak bo‘ladi.====
+5330300-Axborot xavfsizligi yo’nalishi bakalavr talabalari uchun “Kiberxavfsizlik asoslari” fanidan TESTLAR
 
-#shifrmatn
+ 
+
+№ 1.
+
+Manba:  
 
-====alifbo
+Qiyinlik darajasi – 1
 
-====kodlash
+Konfidensiallikni ta’minlash bu - ?
 
-====ochiq matn
+ruxsatsiz o‘qishdan himoyalash.
 
-++++
+ruxsatsiz yozishdan himoyalash.
 
+ruxsatsiz bajarishdan himoyalash.
+
+ruxsat etilgan amallarni bajarish.
+
  
+
+№ 2. 
 
-Ma’lumot shifrlansa, natijasi .... bo‘ladi.====
+Manba: 
 
-#shifrmatn
+Qiyinlik darajasi – 1
 
-====nomalum
+Foydalanuvchanlikni ta’minlash bu - ?
 
-====ochiq matn
+ruxsatsiz bajarishdan himoyalash.
 
-====kod
+ruxsatsiz yozishdan himoyalash.
 
-++++
+ruxsatsiz o‘qishdan himoyalash.
 
+ruxsat etilgan amallarni bajarish.
+
  
+
+№ 3.
+
+Manba: 
 
-..... axborotni ifodalash uchun foydalaniladigan chekli sondagi belgilar to‘plami.====
+Qiyinlik darajasi – 1
 
-#Alifbo
+Yaxlitlikni ta’minlash bu - ?
 
-====Kodlash
+ruxsatsiz yozishdan himoyalash.
 
-====Shifrmatn
+ruxsatsiz o‘qishdan himoyalash.
 
-====Ochiq matn
+ruxsatsiz bajarishdan himoyalash.
 
-++++
+ruxsat etilgan amallarni bajarish.
 
  
 
-Kriptotahlil so‘ziga berilgan to‘g‘ri tavsifni toping?====
+№ 4.
 
-#Maxfiy shifrlarni buzish fani va sanati.
+Manba: 
 
-====Axborotni himoyalash fani va sanati.
+Qiyinlik darajasi – 1
 
-====Maxfiy shifrlarni yaratish va buzish fani va sanati.
+Jumlani to‘ldiring. Hujumchi kabi fikrlash ... kerak.
 
-====Maxfiy shifrlarni yaratish fani va sanati.
+bo‘lishi mumkin bo‘lgan xavfni oldini olish uchun
 
-++++
+kafolatlangan amallarni ta’minlash uchun
 
+ma’lumot, axborot va tizimdan foydalanish uchun
+
+ma’lumotni aniq va ishonchli ekanligini bilish uchun
+
  
+
+№ 5.
 
-Kriptografiya so‘ziga berilgan to‘g‘ri tavsifni toping?====
+Manba: 
 
-#Maxfiy shifrlarni yaratish fani va sanati.
+Qiyinlik darajasi – 1
 
-====Maxfiy shifrlarni yaratish va buzish fani va sanati.
+Jumlani to‘ldiring. Tizimli fikrlash ... uchun kerak.
 
-====Axborotni himoyalash fani va sanati.
+kafolatlangan amallarni ta’minlash
 
-====Maxfiy shifrlarni buzish fani va sanati.
+bo‘lishi mumkin bo‘lgan xavfni oldini olish 
 
-++++
+ma’lumot, axborot va tizimdan foydalanish
 
+ma’lumotni aniq va ishonchli ekanligini bilish 
+
  
+
+№ 6.
+
+Manba: 
 
-.... kriptotizimni shifrlash va deshifrlash uchun sozlashda foydalaniladi.====
+Qiyinlik darajasi – 1
 
-#Kriptografik kalit
+Axborot xavfsizligida risk bu?
 
-====Alifbo
+Manbaga zarar keltiradigan ichki yoki tashqi zaiflik ta’sirida tahdid qilish ehtimoli.
 
-====Ochiq matn
+U yoki bu faoliyat jarayonida nimaga erishishni xoxlashimiz.
 
-====Algoritm
+Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.
 
-++++
+Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
 
  
 
-Kriptologiya so‘ziga berilgan to‘g‘ri tavsifni toping?====
+№ 7.
 
-#Maxfiy shifrlarni yaratish va buzish fani va sanati.
+Manba: 
 
-====Maxfiy shifrlarni yaratish fani va sanati.
+Qiyinlik darajasi – 1
 
-====Axborotni himoyalash fani va sanati.
+Axborot xavfsizligida tahdid bu?
 
-====Maxfiy shifrlarni buzish fani va sanati.
+Aktivga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
 
-++++
+Noaniqlikning maqsadlarga ta’siri.
 
+U yoki bu faoliyat jarayonida nimaga erishishni xohlashimiz.
+
+Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.
+
  
+
+№ 8.
 
-Jumlani to‘ldiring. ... sohasi tashkil etuvchilar xavfsizligi, aloqa xavfsizligi va dasturiy ta’minotlar xavfsizligidan iborat.====
+Manba: 
 
-#Tizim xavfsizligi
+Qiyinlik darajasi – 1
 
-====Inson xavfsizligi
+Axborot xavfsizligida aktiv bu?
 
-====Tashkilot xavfsizligi
+Tashkilot yoki foydalanuvchi uchun qadrli bo‘lgan ixtiyoriy narsa.
 
-====Ma’lumotlar xavfsizligi
+Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
 
-++++
+Noaniqlikning maqsadlarga ta’siri.
 
+U yoki bu faoliyat jarayonida nimaga erishishni xohlashimiz.
+
  
+
+№ 9.
+
+Manba: 
 
-Har qanday vaziyatda biror bir hodisani yuzaga kelish ehtimoli qo‘shilsa ....====
+Qiyinlik darajasi – 1
 
-#risk paydo bo‘ladi.
+Axborot xavfsizligida zaiflik bu?
 
-====hujum paydo bo‘ladi.
+Tahdidga sabab bo‘luvchi tashkilot aktivi yoki boshqaruv tizimidagi nuqson.
 
-====tahdid paydo bo‘ladi.
+Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.
 
-====aktiv paydo bo‘ladi.
+Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
 
-++++
+Noaniqlikning maqsadlarga ta’siri.
 
  
 
-Axborot xavfsizligida boshqarish vositasi bu?====
+№ 10.
 
-#Natijasi zaiflik yoki tahdidga ta’sir qiluvchi riskni o‘zgartiradigan harakatlar.
+Manba: 
 
-====Bir yoki bir nechta tahdidga sabab bo‘luvchi tashkilot aktivi yoki boshqaruv tizimidagi kamchilik.
+Qiyinlik darajasi – 1
 
-====Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
+Axborot xavfsizligida boshqarish vositasi bu?
 
-====Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.
+Natijasi zaiflik yoki tahdidga ta’sir qiluvchi riskni o‘zgartiradigan harakatlar.
 
-++++
+Bir yoki bir nechta tahdidga sabab bo‘luvchi tashkilot aktivi yoki boshqaruv tizimidagi kamchilik.
 
+Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.
+
+Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
+
  
+
+№ 11.
+
+Manba: 
 
-Axborot xavfsizligida zaiflik bu?====
+Qiyinlik darajasi – 1
 
-#Tahdidga sabab bo‘luvchi tashkilot aktivi yoki boshqaruv tizimidagi nuqson.
+Har qanday vaziyatda biror bir hodisani yuzaga kelish ehtimoli qo‘shilsa ....
 
-====Noaniqlikning maqsadlarga ta’siri.
+risk paydo bo‘ladi.
 
-====Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
+hujum paydo bo‘ladi.
 
-====Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.
+tahdid paydo bo‘ladi.
 
-++++
+aktiv paydo bo‘ladi.
 
  
 
-Jumlani to‘ldiring. Denial of service (DOS) hujumi axborotni .... xususiyatini buzushga qaratilgan.====
+№ 12.
 
-#foydalanuvchanlik
+Manba: 
 
-====Konfidensiallik
+Qiyinlik darajasi – 1
 
-====butunlik
+Jumlani to‘ldiring. Denial of service (DOS) hujumi axborotni .... xususiyatini buzushga qaratilgan.
 
-====ishonchlilik
+foydalanuvchanlik
 
-++++
+butunlik
 
+konfidensiallik
+
+ishonchlilik
+
  
+
+№ 13.
 
-Axborot xavfsizligida aktiv bu?====
+Manba: 
 
-#Tashkilot yoki foydalanuvchi uchun qadrli bo‘lgan ixtiyoriy narsa.
+Qiyinlik darajasi – 1
 
-====Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
+Jumlani to‘ldiring. ... sohasi tashkil etuvchilar xavfsizligi, aloqa xavfsizligi va dasturiy ta’minotlar xavfsizligidan iborat.
 
-====U yoki bu faoliyat jarayonida nimaga erishishni xohlashimiz.
+Tizim xavfsizligi
 
-====Noaniqlikning maqsadlarga ta’siri.
+Ma’lumotlar xavfsizligi
 
-++++
+Inson xavfsizligi
 
+Tashkilot xavfsizligi
+
  
+
+№ 14.
+
+Manba: 
 
-Axborot xavfsizligida tahdid bu?====
+Qiyinlik darajasi – 1
 
-#Aktivga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
+Kriptologiya so‘ziga berilgan to‘g‘ri tavsifni toping?
 
-====Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.
+Maxfiy shifrlarni yaratish va buzish fani va sanati.
 
-====U yoki bu faoliyat jarayonida nimaga erishishni xohlashimiz.
+Maxfiy shifrlarni yaratish fani va sanati.
 
-====Noaniqlikning maqsadlarga ta’siri.
+Maxfiy shifrlarni buzish fani va sanati.
 
-++++
+Axborotni himoyalash fani va sanati.
 
  
 
-Axborot xavfsizligida risk bu?====
+№ 15.
 
-#Manbaga zarar keltiradigan ichki yoki tashqi zaiflik ta’sirida tahdid qilish ehtimoli.
+Manba: 
 
-====Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa.
+Qiyinlik darajasi – 1
 
-====U yoki bu faoliyat jarayonida nimaga erishishni xoxlashimiz.
+.... kriptotizimni shifrlash va deshifrlash uchun sozlashda foydalaniladi.
 
-====Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa.
+Kriptografik kalit
 
-++++
+Ochiq matn
 
+Alifbo
+
+Algoritm
+
  
+
+№ 16.
 
-Jumlani to‘ldiring. Tizimli fikrlash ... uchun kerak.====
+Manba: 
 
-#kafolatlangan amallarni ta’minlash
+Qiyinlik darajasi – 1
 
-====ma’lumot, axborot va tizimdan foydalanish
+Kriptografiya so‘ziga berilgan to‘g‘ri tavsifni toping?
 
-====bo‘lishi mumkin bo‘lgan xavfni oldini olish
+Maxfiy shifrlarni yaratish fani va sanati.
 
-====ma’lumotni aniq va ishonchli ekanligini bilish
+Maxfiy shifrlarni yaratish va buzish fani va sanati.
 
-++++
+Maxfiy shifrlarni buzish fani va sanati.
 
+Axborotni himoyalash fani va sanati.
+
  
+
+№ 17.
+
+Manba: 
 
-Jumlani to‘ldiring. Hujumchi kabi fikrlash ... kerak.====
+Qiyinlik darajasi – 1
 
-#bo‘lishi mumkin bo‘lgan xavfni oldini olish uchun
+Kriptotahlil so‘ziga berilgan to‘g‘ri tavsifni toping?
 
-====ma’lumot, axborot va tizimdan foydalanish uchun
+Maxfiy shifrlarni buzish fani va sanati.
 
-====kafolatlangan amallarni ta’minlash uchun
+Maxfiy shifrlarni yaratish fani va sanati.
 
-====ma’lumotni aniq va ishonchli ekanligini bilish uchun
+Maxfiy shifrlarni yaratish va buzish fani va sanati.
 
-++++
+Axborotni himoyalash fani va sanati.
 
  
 
-Yaxlitlikni ta’minlash bu - ?====
+№ 18.
 
-#ruxsatsiz yozishdan himoyalash.
+Manba: 
 
-====ruxsatsiz bajarishdan himoyalash.
+Qiyinlik darajasi – 1
 
-====ruxsatsiz o‘qishdan himoyalash.
+..... axborotni ifodalash uchun foydalaniladigan chekli sondagi belgilar to‘plami.
 
-====ruxsat etilgan amallarni bajarish.
+Alifbo
 
-++++
+Ochiq matn
 
+Shifrmatn
+
+Kodlash
+
  
+
+№ 19.
 
-Foydalanuvchanlikni ta’minlash bu - ?====
+Manba: 
 
-#ruxsatsiz bajarishdan himoyalash.
+Qiyinlik darajasi – 1
 
-====ruxsatsiz o‘qishdan himoyalash.
+Ma’lumot shifrlansa, natijasi .... bo‘ladi.
 
-====ruxsatsiz yozishdan himoyalash.
+shifrmatn
 
-====ruxsat etilgan amallarni bajarish.
+ochiq matn
 
-++++
+nomalum
 
+kod
+
  
+
+№ 20.
+
+Manba: 
 
-Konfidensiallikni ta’minlash bu - ?====
+Qiyinlik darajasi – 1
 
-#ruxsatsiz o‘qishdan himoyalash.
+Deshifrlash uchun kalit va ..... kerak bo‘ladi.
 
-====ruxsatsiz bajarishdan himoyalash.
+shifrmatn
 
-====ruxsatsiz yozishdan himoyalash.
+ochiq matn
 
-====ruxsat etilgan amallarni bajarish.
+kodlash
 
-++++
+alifbo
 
  
 
-.... kriptografik shifrlash algoritmlari blokli va oqimli turlarga ajratiladi.====
+№ 21.
 
-#Simmetrik
+Manba: 
 
-====Asimmetrik
+Qiyinlik darajasi – 1
 
-====Ochiq kalitli
+Ma’lumotni shifrlash va deshifrlashda yagona kalitdan foydalanuvchi tizim bu -
 
-====Klassik davr
+simmetrik kriptotizim.
 
-++++
+ochiq kalitli kriptotizim.
 
+asimetrik kriptotizim.
+
+xesh funksiyalar.
+
  
+
+№ 22.
 
-Ikki kalitli kriptotizim bu -====
+Manba: 
 
-#ochiq kalitli kriptotizim.
+Qiyinlik darajasi – 1
 
-====xesh funksiyalar.
+Ikki kalitli kriptotizim bu - 
 
-====simmetrik kriptotizim.
+ochiq kalitli kriptotizim.
 
-====MAC tizimlari.
+simmetrik kriptotizim.
 
-++++
+xesh funksiyalar.
 
+MAC tizimlari.
+
  
+
+№ 23.
 
-Jumlani to‘ldiring. ... kompyuter davriga tegishli shifrlarga misol bo‘la oladi.====
+Manba: 
 
-#DES, AES shifri
+Qiyinlik darajasi – 1
 
-====Kodlar kitobi
+Axborotni mavjudligini yashirish bilan shug‘ullanuvchi fan sohasi bu -
 
-====Sezar shifri
+steganografiya.
 
-====Enigma shifri
+kriptografiya.
 
-++++
+kodlash.
 
+kriptotahlil.
+
  
+
+№ 24.
 
-Xesh funksiyalar - .... funksiya.====
+Manba: 
 
-#kalitsiz kriptografik
+Qiyinlik darajasi – 1
 
-====ikki kalitli kriptografik
+Axborotni foydalanuvchiga qulay tarzda taqdim etish uchun ..... amalga oshiriladi.
 
-====bir kalitli kriptografik
+kodlash
 
-====ko‘p kalitli kriptografik
+shifrlash
 
-++++
+yashirish
 
+deshifrlash
+
  
+
+№ 25.
+
+Manba: 
 
-Ma’lumotni mavjudligini yashirishda .....====
+Qiyinlik darajasi – 1
 
-#steganografik algoritmdan foydalaniladi.
+Jumlani to‘ldiring. Ma’lumotni konfidensialligini ta’minlash uchun ..... zarur.
 
-====kodlash algoritmidan foydalaniladi.
+shifrlash
 
-====kriptografik algoritmdan foydalaniladi.
+kodlash
 
-====kriptotahlil algoritmidan foydalaniladi.
+dekodlash
 
-++++
+deshifrlash
 
  
 
-Jumlani to‘ldiring. Ma’lumotni konfidensialligini ta’minlash uchun ..... zarur.====
+№ 26.
 
-#shifrlash
+Manba: 
 
-====Dekodlash
+Qiyinlik darajasi – 1
 
-====kodlash
+Ma’lumotni mavjudligini yashirishda .....
 
-====deshifrlash
+steganografik algoritmdan foydalaniladi.
 
-++++
+kriptografik algoritmdan foydalaniladi.
 
+kodlash algoritmidan foydalaniladi.
+
+kriptotahlil algoritmidan foydalaniladi.
+
  
+
+№ 27.
 
-Axborotni foydalanuvchiga qulay tarzda taqdim etish uchun ..... amalga oshiriladi.====
+Manba: 
 
-#kodlash
+Qiyinlik darajasi – 1
 
-====shifrlash
+Xesh funksiyalar - .... funksiya.
 
-====yashirish
+kalitsiz kriptografik
 
-====deshifrlash
+bir kalitli kriptografik
 
-++++
+ikki kalitli kriptografik
 
+ko‘p kalitli kriptografik
+
  
+
+№ 28.
+
+Manba: 
 
-Jumlani to‘ldiring. Ma’lumotni uzatishda kriptografik himoya .....====
+Qiyinlik darajasi – 1
 
-#konfidensiallik va butunlikni ta’minlaydi.
+Jumlani to‘ldiring. Ma’lumotni uzatishda kriptografik himoya .....
 
-====foydalanuvchanlik va butunlikni ta’minlaydi.
+konfidensiallik va butunlikni ta’minlaydi.
 
-====konfidensiallik va foydalanuvchanlikni ta’minlaydi.
+konfidensiallik va foydalanuvchanlikni ta’minlaydi.
 
-====konfidensiallik ta’minlaydi.
+foydalanuvchanlik va butunlikni ta’minlaydi.
 
-++++
+konfidensiallik ta’minlaydi.
 
  
 
-Axborotni mavjudligini yashirish bilan shug‘ullanuvchi fan sohasi bu -====
+№ 29.
 
-#steganografiya.
+Manba: 
 
-====kriptografiya.
+Qiyinlik darajasi – 1
 
-====kodlash.
+Jumlani to‘ldiring. ... kompyuter davriga tegishli shifrlarga misol bo‘la oladi.
 
-====kriptotahlil.
+DES, AES shifri
 
-++++
+Sezar shifri
 
+Kodlar kitobi
+
+Enigma shifri
+
  
+
+№ 30.
 
-Ma’lumotni shifrlash va deshifrlashda yagona kalitdan foydalanuvchi tizim bu -====
+Manba: 
 
-#simmetrik kriptotizim.
+Qiyinlik darajasi – 1
 
-====asimetrik kriptotizim.
+.... kriptografik shifrlash algoritmlari blokli va oqimli turlarga ajratiladi.
 
-====ochiq kalitli kriptotizim.
+Simmetrik
 
-====xesh funksiyalar.
+Ochiq kalitli
 
-++++
+Asimmetrik
 
+Klassik davr
+
  
+
+№ 31.
+
+Manba: 
 
-Tizim tomonidan foydalanuvchilarga imtiyozlar berish jarayoni bu?====
+Qiyinlik darajasi – 2
 
-#Avtorizatsiya.
+Jumlani to‘ldiring. .... shifrlar tasodifiy ketma-ketliklarni generatsiyalashga asoslanadi.
 
-====Identifikatsiya.
+Oqimli 
 
-====Autentifikatsiya.
+Blokli 
 
-====Ro‘yxatga olish.
+Ochiq kalitli 
 
-++++
+Asimetrik 
 
  
 
-Foydalanuvchini haqiqiyligini tekshirish jarayoni bu?====
+№ 32.
 
-#Autentifikatsiya.
+Manba: 
 
-====Ro‘yxatga olish.
+Qiyinlik darajasi – 2
 
-====Avtorizatsiya.
+Ochiq matn qismlarini takroriy shifrlovchi algoritmlar bu -
 
-====Identifikatsiya.
+blokli shifrlar
 
-++++
+oqimli shifrlash
 
+ochiq kalitli shifrlar
+
+asimmetrik shifrlar
+
  
+
+№ 33.
 
-Foydalanuvchini tizimga tanitish jarayoni bu?====
+Manba: 
 
-#Identifikatsiya.
+Qiyinlik darajasi – 2
 
-====Autentifikatsiya.
+A5/1 shifri bu - 
 
-====Ro‘yxatga olish.
+oqimli shifr.
 
-====Avtorizatsiya.
+blokli shifr.
 
-++++
+ochiq kalitli shifr.
 
+asimmetrik shifr
+
  
+
+№ 34.
+
+Manba: 
 
-Quyidagi muammolardan qaysi biri simmetrik kriptotizimlarga xos.====
+Qiyinlik darajasi – 2
 
-#Kalitni taqsimlash zaruriyati.
+Quyidagi muammolardan qaysi biri simmetrik kriptotizimlarga xos.
 
-====Kalitlarni esda saqlash murakkabligi.
+Kalitni taqsimlash zaruriyati.
 
-====Shifrlash jarayonining ko‘p vaqt olishi.
+Shifrlash jarayonining ko‘p vaqt olishi.
 
-====Foydalanuvchilar tomonidan maqbul ko‘rilmasligi.
+Kalitlarni esda saqlash murakkabligi.
 
-++++
+Foydalanuvchilar tomonidan maqbul ko‘rilmasligi.
 
  
 
-Quyidagi talablardan qaysi biri xesh funksiyaga tegishli emas.====
+№ 35.
 
-#Bir tomonlama funksiya bo‘lmasligi kerak.
+Manba: 
 
-====Kolliziyaga bardoshli bo‘lishi.
+Qiyinlik darajasi – 2
 
-====Turli kirishlar turli chiqishlarni akslantirishi.
+Quyidagi atamalardan qaysi biri faqat simmetrik blokli shifrlarga xos?
 
-====Amalga oshirishdagi yuqori tezkorlik.
+Blok uzunligi.
 
-++++
+Kalit uzunligi.
 
+Ochiq kalit.
+
+Kodlash jadvali.
+
  
+
+№ 36.
+
+Manba: 
 
-Rad etishdan himoyalashda ochiq kalitli kriptotizimlarning qaysi xususiyati muhim hisoblanadi.====
+Qiyinlik darajasi – 2
 
-#Ikkita kalitdan foydalanilgani.
+Jumlani to‘ldiring. Sezar shifri .... akslantirishga asoslangan.
 
-====Shaxsiy kalitni saqlash zarurligi.
+o‘rniga qo‘yish
 
-====Matematik muammoga asoslanilgani.
+o‘rin almashtirish
 
-====Ochiq kalitni saqlash zaruriyati mavjud emasligi.
+ochiq kalitli 
 
-++++
+kombinatsion
 
  
 
-Qaysi ochiq kalitli algoritm katta sonni faktorlash muammosiga asoslanadi?====
+№ 37.
 
-#RSA algoritmi.
+Manba: 
 
-====DES.
+Qiyinlik darajasi – 2
 
-====El-Gamal algoritmi.
+Kriptotizimning to‘liq xavfsiz bo‘lishi Kerxgofs prinsipiga ko‘ra qaysi kattalikning nomalum bo‘lishiga asoslanadi?
 
-====TEA.
+Kalit.
 
-++++
+Algoritm.
 
+Shifrmatn.
+
+Protokol.
+
  
+
+№ 38.
 
-Quyidagilardan qaysi biri rad etishdan himoyani ta’minlaydi.====
+Manba: 
 
-#Elektron raqamli imzo tizimi.
+Qiyinlik darajasi – 2
 
-====Simmetrik shifrlash tizimlari.
+Shifrlash va deshifrlashda turli kalitlardan foydalanuvchi shifrlar bu - 
 
-====MAC tizimlari.
+ochiq kalitli shifrlar.
 
-====Xesh funksiyalar.
+simmetrik shifrlar.
 
-++++
+bir kalitli shifrlar
 
+xesh funksiyalar.
+
  
+
+№ 39.
+
+Manba: 
 
-Axborotni qaysi xususiyatlari ochiq kalitli shifrlar yordamida ta’minlanadi.====
+Qiyinlik darajasi – 2
 
-#Konfidensiallik.
+Agar simmetrik kalitning uzunligi 64 bit bo‘lsa, jami bo‘lishi mumkin bo‘lgan kalitlar soni nechta?
 
-====Butunlik va foydalanuvchanlik.
+264
 
-====Konfidensiallik, butunlik va foydalanuvchanlik.
+64!
 
-====Foydalanuvchanlik va konfidensiallik.
+642
 
-++++
+263
 
  
 
-Axborotni qaysi xususiyatlari simmetrik shifrlar yordamida ta’minlanadi.====
+№ 40.
 
-#Konfidensiallik va butunlik.
+Manba: 
 
-====Butunlik va foydalanuvchanlik.
+Qiyinlik darajasi – 2
 
-====Konfidensiallik.
+Axborotni qaysi xususiyatlari simmetrik shifrlar yordamida ta’minlanadi.
 
-====Foydalanuvchanlik va konfidensiallik.
+Konfidensiallik va butunlik.
 
-++++
+Konfidensiallik.
 
+Butunlik va foydalanuvchanlik.
+
+Foydalanuvchanlik va konfidensiallik.
+
  
+
+№ 41.
 
-Agar simmetrik kalitning uzunligi 64 bit bo‘lsa, jami bo‘lishi mumkin bo‘lgan kalitlar soni nechta?====
+Manba: 
 
-#264
+Qiyinlik darajasi – 2
 
-====642
+Axborotni qaysi xususiyatlari ochiq kalitli shifrlar yordamida ta’minlanadi.
 
-====64!
+Konfidensiallik.
 
-====263
+Konfidensiallik, butunlik va foydalanuvchanlik.
 
-++++
+Butunlik va foydalanuvchanlik.
 
+Foydalanuvchanlik va konfidensiallik.
+
  
+
+№ 42.
+
+Manba: 
 
-Shifrlash va deshifrlashda turli kalitlardan foydalanuvchi shifrlar bu -====
+Qiyinlik darajasi – 2
 
-#ochiq kalitli shifrlar.
+Quyidagilardan qaysi biri rad etishdan himoyani ta’minlaydi.
 
-====bir kalitli shifrlar
+Elektron raqamli imzo tizimi.
 
-====simmetrik shifrlar.
+MAC tizimlari.
 
-====xesh funksiyalar.
+Simmetrik shifrlash tizimlari.
 
-++++
+Xesh funksiyalar.
 
  
 
-Kriptotizimning to‘liq xavfsiz bo‘lishi Kerxgofs prinsipiga ko‘ra qaysi kattalikning nomalum bo‘lishiga asoslanadi?====
+№ 43.
 
-#Kalit.
+Manba: 
 
-====Protokol.
+Qiyinlik darajasi – 2
 
-====Shifrmatn.
+Qaysi ochiq kalitli algoritm katta sonni faktorlash muammosiga asoslanadi?
 
-====Algoritm.
+RSA algoritmi.
 
-++++
+El-Gamal algoritmi.
 
+DES.
+
+TEA.
+
  
+
+№ 44.
 
-Jumlani to‘ldiring. Sezar shifri .... akslantirishga asoslangan.====
+Manba: 
 
-#o‘rniga qo‘yish
+Qiyinlik darajasi – 2
 
-====Kombinatsion
+Rad etishdan himoyalashda ochiq kalitli kriptotizimlarning qaysi xususiyati muhim hisoblanadi.
 
-====ochiq kalitli
+Ikkita kalitdan foydalanilgani.
 
-====o‘rin almashtirish
+Matematik muammoga asoslanilgani.
 
-++++
+Ochiq kalitni saqlash zaruriyati mavjud emasligi.
 
+Shaxsiy kalitni saqlash zarurligi.
+
  
+
+№ 45.
+
+Manba: 
 
-Quyidagi atamalardan qaysi biri faqat simmetrik blokli shifrlarga xos?====
+Qiyinlik darajasi – 2
 
-#Blok uzunligi.
+Quyidagi talablardan qaysi biri xesh funksiyaga tegishli emas.
 
-====Ochiq kalit.
+Bir tomonlama funksiya bo‘lmasligi kerak.
 
-====Kalit uzunligi.
+Amalga oshirishdagi yuqori tezkorlik.
 
-====Kodlash jadvali.
+Turli kirishlar turli chiqishlarni akslantirishi.
 
-++++
+Kolliziyaga bardoshli bo‘lishi.
 
  
 
-Quyidagi xususiyatlardan qaysi biri elektron raqamli imzo tomonidan ta’minlanadi?====
+№ 46.
 
-#Axborot butunligini va rad etishdan himoyalash.
+Manba: 
 
-====Axborot konfidensialligi.
+Qiyinlik darajasi – 2
 
-====Axborot konfidensialligini va rad etishdan himoyalash
+Quyidagi xususiyatlardan qaysi biri elektron raqamli imzo tomonidan ta’minlanadi?
 
-====Axborot butunligi.
+Axborot butunligini va rad etishdan himoyalash.
 
-++++
+Axborot konfidensialligini va rad etishdan himoyalash.
 
+Axborot konfidensialligi.
+
+Axborot butunligi.
+
  
+
+№ 47.
 
-Faqat ma’lumotni butunligini ta’minlovchi kriptotizimlarni ko‘rsating.====
+Manba: 
 
-#MAC (Xabarlarni autentifikatsiya kodlari) tizimlari.
+Qiyinlik darajasi – 2
 
-====Ochiq kalitli kriptografik tizimlar.
+Faqat ma’lumotni butunligini ta’minlovchi kriptotizimlarni ko‘rsating.
 
-====Elektron raqamli imzo tizimlari.
+MAC (Xabarlarni autentifikatsiya kodlari) tizimlari.
 
-====Barcha javoblar to‘g‘ri.
+Elektron raqamli imzo tizimlari.
 
-++++
+Ochiq kalitli kriptografik tizimlar.
 
+Barcha javoblar to‘g‘ri.
+
  
+
+№ 48.
 
-A5/1 shifri bu -====
+Manba: 
 
-#oqimli shifr.
+Qiyinlik darajasi – 2
 
-====ochiq kalitli shifr.
+Foydalanuvchini tizimga tanitish jarayoni bu?
 
-====blokli shifr.
+Identifikatsiya.
 
-====asimmetrik shifr
+Autentifikatsiya.
 
-++++
+Avtorizatsiya.
 
+Ro‘yxatga olish.
+
  
+
+№ 49.
 
-Ochiq matn qismlarini takroriy shifrlovchi algoritmlar bu -====
+Manba: 
 
-#blokli shifrlar
+Qiyinlik darajasi – 2
 
-====ochiq kalitli shifrlar
+Foydalanuvchini haqiqiyligini tekshirish jarayoni bu?
 
-====oqimli shifrlash
+Autentifikatsiya.
 
-====asimmetrik shifrlar
+Identifikatsiya.
 
-++++
+Avtorizatsiya.
 
+Ro‘yxatga olish.
+
  
+
+№ 50.
+
+Manba: 
 
-Jumlani to‘ldiring. .... shifrlar tasodifiy ketma-ketliklarni generatsiyalashga asoslanadi.====
+Qiyinlik darajasi – 2
 
-#Oqimli
+Tizim tomonidan foydalanuvchilarga imtiyozlar berish jarayoni bu?
 
-====Blokli
+Avtorizatsiya.
 
-====Asimetrik
+Autentifikatsiya.
 
-====Ochiq kalitli
+Identifikatsiya.
 
-++++
+Ro‘yxatga olish.
 
  
 
-Parolga asoslangan autentifikatsiya usulining asosiy kamchiligini ko‘rsating?====
+№ 51.
 
-#Esda saqlash zaruriyati.
+Manba: 
 
-====Almashtirib bo‘lmaslik.
+Qiyinlik darajasi – 2
 
-====Birga olib yurish zaririyati.
+Parolga asoslangan autentifikatsiya usulining asosiy kamchiligini ko‘rsating?
 
-====Qalbakilashtirish mumkinligi.
+Esda saqlash zaruriyati.
 
-++++
+Birga olib yurish zaririyati.
 
+Almashtirib bo‘lmaslik.
+
+Qalbakilashtirish mumkinligi.
+
  
+
+№ 52.
 
-Parolga asoslangan autentifikatsiya usuliga qaratilgan hujumlarni ko‘rsating?====
+Manba: 
 
-#Parollar lug‘atidan foydalanish asosida hujum, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum.
+Qiyinlik darajasi – 2
 
-====Parollar lug‘atidan foydalanish asosida hujum, yelka orqali qarash hujumi, qalbakilashtirish hujumi.
+Biror narsani bilishga asoslangan autentifikatsiya deyilganda quyidagilardan qaysilar tushuniladi.
 
-====Fizik o‘g‘irlash hujumi, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum.
+PIN, Parol.
 
-====Parollar lug‘atidan foydalanish asosida hujum, bazadagi parametrni almashtirish hujumi, zararli dasturlardan foydanish asosida hujum.
+Token, mashinaning kaliti.
 
-++++
+Yuz tasviri, barmoq izi.
 
+Biometrik parametrlar.
+
  
+
+№ 53.
+
+Manba: 
 
-Qaysi biometrik parametr eng yuqori takrorlanmaslik xususiyatiga ega?====
+Qiyinlik darajasi – 2
 
-#Ko‘z qorachig‘i.
+Tokenga asoslangan autentifikatsiya usulining asosiy kamchiligini ayting?
 
-====Qo‘l shakli.
+Doimo xavfsiz saqlab olib yurish zaruriyati.
 
-====Barmoq izi.
+Doimo esada saqlash zaruriyati.
 
-====Yuz tasviri.
+Qalbakilashtirish muammosi mavjudligi.
 
-++++
+Almashtirib bo‘lmaslik.
 
  
 
-Esda saqlashni va olib yurishni talab etmaydigan autentifikatsiya usuli bu -====
+№ 54.
 
-#biometrik autentifikatsiya.
+Manba: 
 
-====parolga asoslangan autentifikatsiya.
+Qiyinlik darajasi – 2
 
-====ko‘p faktorli autentifikatsiya.
+Esda saqlashni va olib yurishni talab etmaydigan autentifikatsiya usuli bu -
 
-====tokenga asoslangan autentifikatsiya.
+biometrik autentifikatsiya.
 
-++++
+parolga asoslangan autentifikatsiya.
 
+tokenga asoslangan autentifikatsiya.
+
+ko‘p faktorli autentifikatsiya.
+
  
+
+№ 55.
 
-Qaysi biometrik parametr eng yuqori universallik xususiyatiga ega?====
+Manba: 
 
-#Yuz tasviri.
+Qiyinlik darajasi – 2
 
-====Barmoq izi.
+Qaysi biometrik parametr eng yuqori universallik xususiyatiga ega?
 
-====Ko‘z qorachig‘i.
+Yuz tasviri.
 
-====Qo‘l shakli.
+Ko‘z qorachig‘i.
 
-++++
+Barmoq izi.
 
+Qo‘l shakli.
+
  
+
+№ 56.
+
+Manba: 
 
-Tokenga asoslangan autentifikatsiya usulining asosiy kamchiligini ayting?====
+Qiyinlik darajasi – 2
 
-#Doimo xavfsiz saqlab olib yurish zaruriyati.
+Qaysi biometrik parametr eng yuqori takrorlanmaslik xususiyatiga ega?
 
-====Doimo esada saqlash zaruriyati.
+Ko‘z qorachig‘i.
 
-====Qalbakilashtirish muammosi mavjudligi.
+Yuz tasviri.
 
-====Almashtirib bo‘lmaslik.
+Barmoq izi.
 
-++++
+Qo‘l shakli.
 
  
 
-Quyidagilardan qaysi biri har ikkala tomonning haqiqiyligini tekshirish jarayonini ifodalaydi?====
+№ 57.
 
-#Ikki tomonlama autentifikatsiya.
+Manba: 
 
-====Biometrik autentifikatsiya.
+Qiyinlik darajasi – 2
 
-====Ko‘p faktorli autentifikatsiya.
+Quyidagilardan qaysi biri har ikkala tomonning haqiqiyligini tekshirish jarayonini ifodalaydi?
 
-====Ikki faktorli autentifikatsiya
+Ikki tomonlama autentifikatsiya.
 
-++++
+Ikki faktorli autentifikatsiya.
 
+Ko‘p faktorli autentifikatsiya.
+
+Biometrik autentifikatsiya.
+
  
+
+№ 58.
 
-Faqat ob’ektning egasi tomonidan foydalanishga mos bo‘lgan mantiqiy foydalanish usulini ko‘rsating?====
+Manba: 
 
-#Diskretsion foydalanishni boshqarish.
+Qiyinlik darajasi – 2
 
-====Attributga asoslangan foydalanishni boshqarish.
+Parolga asoslangan autentifikatsiya usuliga qaratilgan hujumlarni ko‘rsating?
 
-====Rolga asoslangan foydalanishni boshqarish.
+Parollar lug‘atidan foydalanish asosida hujum, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum.
 
-====Mandatli foydalanishni boshqarish.
+Fizik o‘g‘irlash hujumi, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum.
 
-++++
+Parollar lug‘atidan foydalanish asosida hujum, yelka orqali qarash hujumi, qalbakilashtirish hujumi.
 
+Parollar lug‘atidan foydalanish asosida hujum, bazadagi parametrni almashtirish hujumi, zararli dasturlardan foydanish asosida hujum.
+
  
+
+№ 59.
+
+Manba: 
 
-Qaysi nazorat usuli axborotni fizik himoyalashda inson faktorini mujassamlashtirgan?====
+Qiyinlik darajasi – 2
 
-#Ma’muriy nazoratlash.
+Tokenga asoslangan autentifikatsiya usuliga qaratilgan hujumlarni ko‘rsating?
 
-====Fizik nazoratlash.
+Fizik o‘g‘irlash, mobil qurilmalarda zararli dasturlardan foydalanishga asoslangan hujumlar
 
-====Apparat nazoratlash.
+Parollar lug‘atidan foydalanish asosida hujum, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum
 
-====Texnik nazoratlash.
+Fizik o‘g‘irlash, yelka orqali qarash hujumi, zararli dasturlardan foydalanishga asoslangan hujumlar
 
-++++
+Parollar lug‘atidan foydalanish asosida hujum, bazadagi parametrni almashtirish hujumi, zararli dasturlardan foydalanish asosida hujum
 
  
 
-Foydalanuvchi parollari bazada qanday ko‘rinishda saqlanadi?====
+№ 60.
 
-#Xeshlangan ko‘rinishda.
+Manba: 
 
-====Ochiq holatda.
+Qiyinlik darajasi – 2
 
-====Shifrlangan ko‘rinishda.
+Foydalanuvchi parollari bazada qanday ko‘rinishda saqlanadi?
 
-====Bazada saqlanmaydi.
+Xeshlangan ko‘rinishda.
 
-++++
+Shifrlangan ko‘rinishda.
 
+Ochiq holatda.
+
+Bazada saqlanmaydi.
+
  
+
+№ 61.
+
+Manba: 
 
-Agar parolning uzunligi 8 ta belgi va har bir o‘rinda 128 ta turlicha belgidan foydalanish mumkin bo‘lsa, bo‘lishi mumkin bo‘lgan jami parollar sonini toping.====
+Qiyinlik darajasi – 2
 
-#1288
+Agar parolning uzunligi 8 ta belgi va har bir o‘rinda 128 ta turlicha belgidan foydalanish mumkin bo‘lsa, bo‘lishi mumkin bo‘lgan jami parollar sonini toping.
 
-====128!
+1288
 
-====8128
+8128
 
-====2128
+128!
 
-++++
+2128
 
  
 
-Qoida, siyosat, qoida va siyosatni mujassamlashtirgan algoritmlar, majburiyatlar  va maslahatlar kabi tushunchalar qaysi foydalanishni boshqarish usuliga aloqador.====
+№ 62.
 
-#Attributga asoslangan foydalanishni boshqarish.
+Manba: 
 
-====Rolga asoslangan foydalanishni boshqarish.
+Qiyinlik darajasi – 2
 
-====Diskretsion foydalanishni boshqarish.
+Parolni “salt” (tuz) kattaligidan foydalanib xeshlashdan (h(password, salt)) asosiy maqsad nima?
 
-====Mandatli foydalanishni boshqarish.
+Buzg‘unchiga ortiqcha hisoblashni talab etuvchi murakkablikni yaratish.
 
-++++
+Buzg‘unchi topa olmasligi uchun yangi nomalum kiritish.
 
+Xesh qiymatni tasodifiylik darajasini oshirish.
+
+Xesh qiymatni qaytmaslik talabini oshirish.
+
  
+
+№ 63.
 
-Quyidagilardan qaysi biri tabiy tahdidga misol bo‘ladi?====
+Manba: 
 
-#Yong‘in, suv toshishi, harorat ortishi.
+Qiyinlik darajasi – 2
 
-====Bosqinchilik, terrorizm, o‘g‘irlik.
+Quyidagilardan qaysi biri tabiy tahdidga misol bo‘ladi?
 
-====Suv toshishi, namlikni ortib ketishi, bosqinchilik.
+Yong‘in, suv toshishi, harorat ortishi.
 
-====Yong‘in, o‘g‘irlik, qisqa tutashuvlar.
+Yong‘in, o‘g‘irlik, qisqa tutashuvlar.
 
-++++
+Suv toshishi, namlikni ortib ketishi, bosqinchilik.
 
+Bosqinchilik, terrorizm, o‘g‘irlik.
+
  
+
+№ 64.
+
+Manba: 
 
-Tokenga asoslangan autentifikatsiya usuliga qaratilgan hujumlarni ko‘rsating?====
+Qiyinlik darajasi – 2
 
-#Fizik o‘g‘irlash, mobil qurilmalarda zararli dasturlardan foydalanishga asoslangan hujumlar
+Qaysi nazorat usuli axborotni fizik himoyalashda inson faktorini mujassamlashtirgan?
 
-====Parollar lug‘atidan foydalanish asosida hujum, bazadagi parametrni almashtirish hujumi, zararli dasturlardan foydalanish asosida hujum
+Ma’muriy nazoratlash.
 
-====Fizik o‘g‘irlash, yelka orqali qarash hujumi, zararli dasturlardan foydalanishga asoslangan hujumlar
+Fizik nazoratlash.
 
-====Parollar lug‘atidan foydalanish asosida hujum, yelka orqali qarash hujumi, zararli dasturlardan foydanish asosida hujum
+Texnik nazoratlash.
 
-++++
+Apparat nazoratlash.
 
  
 
-Biror narsani bilishga asoslangan autentifikatsiya deyilganda quyidagilardan qaysilar tushuniladi.====
+№ 65.
 
-#PIN, Parol.
+Manba: 
 
-====Yuz tasviri, barmoq izi.
+Qiyinlik darajasi – 2
 
-====Biometrik parametrlar.
+Faqat ob’ektning egasi tomonidan foydalanishga mos bo‘lgan mantiqiy foydalanish usulini ko‘rsating?
 
-====Token, mashinaning kaliti.
+Diskretsion foydalanishni boshqarish.
 
-++++
+Mandatli foydalanishni boshqarish.
 
+Rolga asoslangan foydalanishni boshqarish.
+
+Attributga asoslangan foydalanishni boshqarish.
+
  
+
+№ 66.
 
-Qaysi usul ob’ektlar va sub’ektlarni klassifikatsiyalashga asoslangan?====
+Manba: 
 
-#Mandatli foydalanishni boshqarish.
+Qiyinlik darajasi – 2
 
-====Diskretsion foydalanishni boshqarish.
+Qaysi usul ob’ektlar va sub’ektlarni klassifikatsiyalashga asoslangan?
 
-====Attributga asoslangan foydalanishni boshqarish.
+Mandatli foydalanishni boshqarish.
 
-====Rolga asoslangan foydalanishni boshqarish.
+Diskretsion foydalanishni boshqarish.
 
-++++
+Rolga asoslangan foydalanishni boshqarish.
 
+Attributga asoslangan foydalanishni boshqarish.
+
  
+
+№ 67.
+
+Manba: 
 
-Biror faoliyat turi bilan bog‘liq harakatlar va majburiyatlar to‘plami bu?====
+Qiyinlik darajasi – 2
 
-#Rol.
+Biror faoliyat turi bilan bog‘liq harakatlar va majburiyatlar to‘plami bu?
 
-====Daraja.
+Rol.
 
-====Imtiyoz.
+Imtiyoz.
 
-====Imkoniyat.
+Daraja.
 
-++++
+Imkoniyat.
 
  
 
-Parolni “salt” (tuz) kattaligidan foydalanib xeshlashdan (h(password, salt)) asosiy maqsad nima?====
+№ 68.
 
-#Buzg‘unchiga ortiqcha hisoblashni talab etuvchi murakkablikni yaratish.
+Manba: 
 
-====Buzg‘unchi topa olmasligi uchun yangi nomalum kiritish.
+Qiyinlik darajasi – 2
 
-====Xesh qiymatni qaytmaslik talabini oshirish.
+Qoida, siyosat, qoida va siyosatni mujassamlashtirgan algoritmlar, majburiyatlar  va maslahatlar kabi tushunchalar qaysi foydalanishni boshqarish usuliga aloqador.
 
-====Xesh qiymatni tasodifiylik darajasini oshirish.
+Attributga asoslangan foydalanishni boshqarish.
 
-++++
+Rolga asoslangan foydalanishni boshqarish.
 
+Mandatli foydalanishni boshqarish.
+
+Diskretsion foydalanishni boshqarish.
+
  
+
+№ 69.
 
-Foydalanuvchi tomonidan kiritilgan taqiqlangan so‘rovni qaysi himoya vositasi yordamida nazoratlash mumkin.====
+Manba: 
 
-#Tarmoqlararo ekran.
+Qiyinlik darajasi – 2
 
-====Virtual  Private Network.
+Bell-Lapadula modeli axborotni qaysi xususiyatini ta’minlashni maqsad qiladi?
 
-====Antivirus.
+Konfidensiallik.
 
-====Router.
+Butunlik.
 
-++++
+Foydalanuvchanlik.
 
+Ishonchlilik.
+
  
+
+№ 70.
+
+Manba: 
 
-64 ta belgidan iborat Sezar shifrlash usilida kalitni bilmasdan turib nechta urinishda ochiq matnni aniqlash mumkin?====
+Qiyinlik darajasi – 2
 
-#63
+Biba modeli axborotni qaysi xususiyatini ta’minlashni maqsad qiladi?
 
-====322
+Butunlik.
 
-====32
+Konfidensiallik.
 
-====63!
+Foydalanuvchanlik.
 
-++++
+Maxfiylik.
 
  
 
-Xesh funksiyalarda kolliziya hodisasi bu?====
+№ 71.
 
-#Ikki turli matnlarning xesh qiymatlarini bir xil bo‘lishi.
+Manba: 
 
-====Tezkorlikda xeshlash imkoniyati .
+Qiyinlik darajasi – 3
 
-====Cheksiz uzunlikdagi axborotni xeshlay olishi.
+Qaysi turdagi shifrlash vositasida barcha kriptografik parametrlar kompyuterning ishtirokisiz generatsiya qilinadi?
 
-====Turli matnlar uchun turli xesh qiymatlarni hosil bo‘lishi.
+Apparat.
 
-++++
+Dasturiy.
 
+Simmetrik.
+
+Ochiq kalitli.
+
  
+
+№ 72.
 
-Qaysi turdagi shifrlash vositasida shifrlash jarayonida boshqa dasturlar kabi kompyuter resursidan foydalanadi?====
+Manba: 
 
-#Dasturiy.
+Qiyinlik darajasi – 3
 
-====Apparat.
+Qaysi turdagi shifrlash vositasida shifrlash jarayonida boshqa dasturlar kabi kompyuter resursidan foydalanadi?
 
-====Simmetrik.
+Dasturiy.
 
-====Ochiq kalitli.
+Apparat.
 
-++++
+Simmetrik.
 
+Ochiq kalitli.
+
  
+
+№ 73.
 
-Yaratishda biror matematik muammoga asoslanuvchi shifrlash algoritmini ko‘rsating?====
+Manba: 
 
-#Ochiq kalitli shifrlar.
+Qiyinlik darajasi – 3
 
-====Blokli  shifrlar.
+Yaratishda biror matematik muammoga asoslanuvchi shifrlash algoritmini ko‘rsating?
 
-====Simmetrik shifrlar.
+Ochiq kalitli shifrlar.
 
-====Oqimli shifrlar.
+Simmetrik shifrlar.
 
-++++
+Blokli  shifrlar.
 
+Oqimli shifrlar.
+
  
+
+№ 74.
 
-Qaysi turdagi shifrlash vositasida barcha kriptografik parametrlar kompyuterning ishtirokisiz generatsiya qilinadi?====
+Manba: 
 
-#Apparat.
+Qiyinlik darajasi – 3
 
-====Simmetrik.
+Xesh funksiyalarda kolliziya hodisasi bu?
 
-====Dasturiy.
+Ikki turli matnlarning xesh qiymatlarini bir xil bo‘lishi.
 
-====Ochiq kalitli.
+Cheksiz uzunlikdagi axborotni xeshlay olishi.
 
-++++
+Tezkorlikda xeshlash imkoniyati.
 
+Turli matnlar uchun turli xesh qiymatlarni hosil bo‘lishi.
+
  
+
+№ 75.
+
+Manba: 
 
-Biba modeli axborotni qaysi xususiyatini ta’minlashni maqsad qiladi?====
+Qiyinlik darajasi – 3
 
-#Butunlik.
+64 ta belgidan iborat Sezar shifrlash usilida kalitni bilmasdan turib nechta urinishda ochiq matnni aniqlash mumkin?
 
-====Maxfiylik.
+63
 
-====Konfidensiallik.
+63!
 
-====Foydalanuvchanlik.
+32
 
-++++
+322
 
  
 
-TCP/IP tarmoq modeli nechta sathdan iborat?====
+№ 76.
 
-#4
+Manba: 
 
-====6
+Qiyinlik darajasi – 3
 
-====7
+Elektron raqamli imzo muolajalarini ko‘rsating?
 
-====5
+Imzoni shakllantirish va imkoni tekshirish.
 
-++++
+Shifrlash va deshifrlash.
 
+Imzoni xeshlash va xesh matnni deshifrlash.
+
+Imzoni shakllartirish va xeshlash.
+
  
+
+№ 77.
 
-Axborotni butunligini ta’minlash usullarini ko‘rsating.====
+Manba: 
 
-#Xesh funksiyalar, MAC.
+Qiyinlik darajasi – 3
 
-====Assimetrik shifrlash usullari, CRC tizimlari.
+“Yelka orqali qarash” hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.
 
-====Shifrlash usullari.
+Parolga asoslangan autentifikatsiya.
 
-====Shifrlash usullari, CRC tizimlari.
+Tokenga asoslangan autentifikatsiya.
 
-++++
+Biometrik autentifikatsiya.
 
+Ko‘z qorachig‘iga asoslangan autentifikatsiya.
+
  
+
+№ 78.
+
+Manba: 
 
-Sotsial injineriyaga asoslangan hujumlar qaysi turdagi autentifikatsiya usuliga qaratilgan.====
+Qiyinlik darajasi – 3
 
-#Parolga asoslangan autentifikatsiya.
+Sotsial injineriyaga asoslangan hujumlar qaysi turdagi autentifikatsiya usuliga qaratilgan. 
 
-====Biometrik autentifikatsiya.
+Parolga asoslangan autentifikatsiya.
 
-====Tokenga asoslangan autentifikatsiya
+Tokenga asoslangan autentifikatsiya.
 
-====Ko‘z qorachig‘iga asoslangan autentifikatsiya.
+Biometrik autentifikatsiya.
 
-++++
+Ko‘z qorachig‘iga asoslangan autentifikatsiya.
 
  
 
-Himoya mexanizmini aylanib o‘tib tizimga ruxsatsiz kirish imkonini beruvchi zararli dastur turi bu?====
+№ 79.
 
-#Backdoors.
+Manba: 
 
-====Adware.
+Qiyinlik darajasi – 3
 
-====Spyware.
+Yo‘qolgan holatda almashtirish qaysi turdagi autentifikatsiya usuli uchun eng arzon.
 
-====Troyan otlari.
+Parolga asoslangan autentifikatsiya.
 
-++++
+Tokenga asoslangan autentifikatsiya.
 
+Biometrik autentifikatsiya.
+
+Ko‘z qorachig‘iga asoslangan autentifikatsiya.
+
  
+
+№ 80.
 
-Bell-Lapadula modeli axborotni qaysi xususiyatini ta’minlashni maqsad qiladi?====
+Manba: 
 
-#Konfidensiallik.
+Qiyinlik darajasi – 3
 
-====Butunlik.
+Qalbakilashtirish hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.
 
-====Foydalanuvchanlik.
+Biometrik autentifikatsiya.
 
-====Ishonchlilik.
+Biror narsani bilishga asoslangan autentifikatsiya.
 
-++++
+Biror narsaga egalik qilishga asoslangan autentifikatsiya.
 
+Tokenga asoslangan autentifikatsiya
+
  
+
+№ 81.
+
+Manba: 
 
-“Yelka orqali qarash” hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.====
+Qiyinlik darajasi – 3
 
-#Parolga asoslangan autentifikatsiya.
+Axborotni butunligini ta’minlash usullarini ko‘rsating.
 
-====Biometrik autentifikatsiya.
+Xesh funksiyalar, MAC.
 
-====Tokenga asoslangan autentifikatsiya.
+Shifrlash usullari.
 
-====Ko‘z qorachig‘iga asoslangan autentifikatsiya.
+Assimetrik shifrlash usullari, CRC tizimlari.
 
-++++
+Shifrlash usullari, CRC tizimlari.
 
  
 
-Quyidagilardan qaysi biri to‘liq kompyuter topologiyalarini ifodalamaydi.====
+№ 82.
 
-#LAN, GAN, OSI.
+Manba: 
 
-====Shina, UDP, FTP.
+Qiyinlik darajasi – 3
 
-====Daraxt, IP, OSI.
+Quyidagilardan qaysi biri to‘liq kompyuter topologiyalarini ifodalamaydi.
 
-====Yulduz, WAN, TCP/IP.
+LAN, GAN, OSI.
 
-++++
+Yulduz, WAN, TCP/IP.
 
+Daraxt, IP, OSI.
+
+Shina, UDP, FTP.
+
  
+
+№ 83.
 
-OSI tarmoq modeli nechta sathdan iborat?====
+Manba: 
 
-#7
+Qiyinlik darajasi – 3
 
-====4
+OSI tarmoq modeli nechta sathdan iborat?
 
-====6
+7
 
-====5
+4
 
-++++
+6
 
+5
+
  
+
+№ 84.
+
+Manba: 
 
-Elektron raqamli imzo muolajalarini ko‘rsating?====
+Qiyinlik darajasi – 3
 
-#Imzoni shakllantirish va imkoni tekshirish.
+TCP/IP tarmoq modeli nechta sathdan iborat?
 
-====Imzoni shakllartirish va xeshlash.
+4
 
-====Imzoni xeshlash va xesh matnni deshifrlash.
+7
 
-====Shifrlash va deshifrlash.
+6
 
-++++
+5
 
  
 
-Hajmi bo‘yicha eng kichik hisoblangan tarmoq turi bu -====
+№ 85.
 
-#PAN
+Manba: 
 
-====LAN
+Qiyinlik darajasi – 3
 
-====MAN
+Hajmi bo‘yicha eng kichik hisoblangan tarmoq turi bu - 
 
-====CAN
+PAN
 
-++++
+LAN
 
+CAN
+
+MAN
+
  
+
+№ 86.
+
+Manba: 
 
-Razvedka hujumlari bu?====
+Qiyinlik darajasi – 3
 
-#Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.
+IPv6 protokolida IP manzilni ifodalashda necha bit ajratiladi.
 
-====Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.
+128
 
-====Tizimni fizik buzishni maqsad qiladi.
+32
 
-====Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi.
+64
 
-++++
+4
 
  
 
-IP manzilni domen nomlariga yoki aksincha almashtirishni amalga oshiruvchi xizmat bu-====
+№ 87.
 
-#DNS
+Manba: 
 
-====UDP
+Qiyinlik darajasi – 3
 
-====OSI
+IP manzilni domen nomlariga yoki aksincha almashtirishni amalga oshiruvchi xizmat bu-
 
-====TCP/IP
+DNS
 
-++++
+TCP/IP
 
+OSI
+
+UDP
+
  
+
+№ 88.
 
-Natijasi tashkilotning amallariga va funksional harakatlariga zarar keltiruvchi hodisalarning potensial paydo bo‘lishi bu?====
+Manba: 
 
-#Tahdid.
+Qiyinlik darajasi – 3
 
-====Zaiflik.
+Natijasi tashkilotning amallariga va funksional harakatlariga zarar keltiruvchi hodisalarning potensial paydo bo‘lishi bu?
 
-====Hujum.
+Tahdid.
 
-====Aktiv.
+Zaiflik.
 
-++++
+Hujum.
 
+Aktiv.
+
  
+
+№ 89.
+
+Manba: 
 
-Zaiflik orqali AT tizimi xavfsizligini buzish tomon amalga oshirilgan harakat bu?====
+Qiyinlik darajasi – 3
 
-#Hujum.
+Zaiflik orqali AT tizimi xavfsizligini buzish tomon amalga oshirilgan harakat bu?
 
-====Zaiflik.
+Hujum.
 
-====Zararli harakat.
+Zaiflik.
 
-====Tahdid.
+Tahdid.
 
-++++
+Zararli harakat.
 
  
 
-Quyidagilardan qaysi biri tarmoq xavfsizligi muammolariga sabab bo‘lmaydi?====
+№ 90.
 
-#Routerlardan foydalanmaslik.
+Manba: 
 
-====Qurilma yoki dasturiy vositani noto‘g‘ri sozlanish.
+Qiyinlik darajasi – 3
 
-====Tug‘ma texnologiya zaifligi.
+Quyidagilardan qaysi biri tarmoq xavfsizligi muammolariga sabab bo‘lmaydi?
 
-====Tarmoqni xavfsiz bo‘lmagan tarzda va zaif loyihalash.
+Routerlardan foydalanmaslik.
 
-++++
+Qurilma yoki dasturiy vositani noto‘g‘ri sozlanish.
 
+Tarmoqni xavfsiz bo‘lmagan tarzda va zaif loyihalash.
+
+Tug‘ma texnologiya zaifligi.
+
  
+
+№ 91.
 
-Paketlarni snifferlash, portlarni skanerlash va Ping buyrug‘ini yuborish hujumlari qaysi hujumlar toifasiga kiradi?====
+Manba: 
 
-#Razvedka hujumlari.
+Qiyinlik darajasi – 3
 
-====DOS hujumlari.
+Tarmoq xavfsizligini buzulishi biznes faoliyatga qanday ta’sir qiladi?
 
-====Kirish hujumlari.
+Biznes faoliyatning buzilishi, huquqiy javobgarlikka sababchi bo‘ladi.
 
-====Zararli dasturlar yordamida amalga oshiriladigan hujumlar.
+Axborotni o‘g‘irlanishi, tarmoq qurilmalarini fizik buzilishiga olib keladi.
 
-++++
+Maxfiylikni yo‘qolishi, tarmoq qurilmalarini fizik buzilishiga olib keladi.
 
+Huquqiy javobgarlik, tarmoq qurilmalarini fizik buzilishiga olib keladi.
+
  
+
+№ 92.
 
-IPv6 protokolida IP manzilni ifodalashda necha bit ajratiladi.====
+Manba: 
 
-#128
+Qiyinlik darajasi – 3
 
-====32
+Razvedka hujumlari bu?
 
-====4
+Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.
 
-====64
+Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.
 
-++++
+Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi.
 
+Tizimni fizik buzishni maqsad qiladi.
+
  
+
+№ 93.
 
-Kirish hujumlari bu?====
+Manba: 
 
-#Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.
+Qiyinlik darajasi – 3
 
-====Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.
+Kirish hujumlari bu?
 
-====Tarmoq haqida axborotni to‘plash hujumchilarga mavjud bo‘lgan potensial zaiflikni aniqlashga harakat qiladi.
+Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.
 
-====Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi.
+Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.
 
-++++
+Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi.
 
+Tarmoq haqida axborotni to‘plash hujumchilarga mavjud bo‘lgan potensial zaiflikni aniqlashga harakat qiladi.
+
  
+
+№ 94.
+
+Manba: 
 
-Xizmatdan vos kechishga qaratilgan hujumlar bu?====
+Qiyinlik darajasi – 3
 
-#Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi.
+Xizmatdan vos kechishga qaratilgan hujumlar bu? 
 
-====Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.
+Foydalanuvchilarga va tashkilotlarda mavjud bo‘lgan biror xizmatni cheklashga urinadi.
 
-====Tarmoq haqida axborotni to‘plash hujumchilarga mavjud bo‘lgan potensial zaiflikni aniqlashga harakat qiladi.
+Turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi.
 
-====Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.
+Asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad qiladi.
 
-++++
+Tarmoq haqida axborotni to‘plash hujumchilarga mavjud bo‘lgan potensial zaiflikni aniqlashga harakat qiladi.
 
  
 
-Tarmoq xavfsizligini buzulishi biznes faoliyatga qanday ta’sir qiladi?====
+№ 95.
 
-#Biznes faoliyatning buzilishi, huquqiy javobgarlikka sababchi bo‘ladi.
+Manba: 
 
-====Maxfiylikni yo‘qolishi, tarmoq qurilmalarini fizik buzilishiga olib keladi.
+Qiyinlik darajasi – 3
 
-====Axborotni o‘g‘irlanishi, tarmoq qurilmalarini fizik buzilishiga olib keladi.
+Paketlarni snifferlash, portlarni skanerlash va Ping buyrug‘ini yuborish hujumlari qaysi hujumlar toifasiga kiradi?
 
-====Huquqiy javobgarlik, tarmoq qurilmalarini fizik buzilishiga olib keladi.
+Razvedka hujumlari.
 
-++++
+Kirish hujumlari.
 
+DOS hujumlari.
+
+Zararli dasturlar yordamida amalga oshiriladigan hujumlar.
+
  
+
+№ 96.
 
-O‘zini yaxshi va foydali dasturiy vosita sifatida ko‘rsatuvchi zararli dastur turi bu?====
+Manba: 
 
-#Troyan otlari.
+Qiyinlik darajasi – 3
 
-====Adware.
+O‘zini yaxshi va foydali dasturiy vosita sifatida ko‘rsatuvchi zararli dastur turi bu?
 
-====Spyware.
+Troyan otlari.
 
-====Backdoors.
+Adware.
 
-++++
+Spyware.
 
+Backdoors.
+
  
+
+№ 97.
+
+Manba: 
 
-Tashqi tarmoqdagi foydalanuvchilardan ichki tarmoq resurslarini himoyalash qaysi himoya vositasining vazifasi hisoblanadi.====
+Qiyinlik darajasi – 3
 
-#Tarmoqlararo ekran.
+Marketing maqsadida yoki reklamani namoyish qilish uchun foydalanuvchini ko‘rish rejimini kuzutib boruvchi zararli dastur turi bu?
 
-====Router.
+Adware.
 
-====Virtual himoyalangan tarmoq.
+Troyan otlari.
 
-====Antivirus.
+Spyware.
 
-++++
+Backdoors.
 
  
 
-Yo‘qolgan holatda almashtirish qaysi turdagi autentifikatsiya usuli uchun eng arzon.====
+№ 98.
 
-#Parolga asoslangan autentifikatsiya.
+Manba: 
 
-====Biometrik autentifikatsiya.
+Qiyinlik darajasi – 3
 
-====Tokenga asoslangan autentifikatsiya.
+Himoya mexanizmini aylanib o‘tib tizimga ruxsatsiz kirish imkonini beruvchi zararli dastur turi bu?
 
-====Ko‘z qorachig‘iga asoslangan autentifikatsiya.
+Backdoors.
 
-++++
+Adware.
 
+Troyan otlari.
+
+Spyware.
+
  
+
+№ 99.
+
+Manba: 
 
-Paket filterlari turidagi tarmoqlararo ekran vositasi OSI modelining qaysi sathida ishlaydi?====
+Qiyinlik darajasi – 3
 
-#Tarmoq sathida.
+Paket filterlari turidagi tarmoqlararo ekran vositasi OSI modelining qaysi sathida ishlaydi?
 
-====Transport sathida.
+Tarmoq sathida.
 
-====Ilova sathida.
+Transport sathida.
 
-====Kanal sathida.
+Ilova sathida.
 
-++++
+Kanal sathida.
 
  
 
-Marketing maqsadida yoki reklamani namoyish qilish uchun foydalanuvchini ko‘rish rejimini kuzutib boruvchi zararli dastur turi bu?====
+№ 100.
 
-#Adware.
+Manba: 
 
-====Troyan otlari.
+Qiyinlik darajasi – 3
 
-====Spyware.
+Tashqi tarmoqdagi foydalanuvchilardan ichki tarmoq resurslarini himoyalash qaysi himoya vositasining vazifasi hisoblanadi.
 
-====Backdoors.
+Tarmoqlararo ekran.
 
-++++
+Antivirus.
 
+Virtual himoyalangan tarmoq.
+
+Router.
+
  
+
+№ 101.
 
-Ichki tarmoq foydalanuvchilarini tashqi tarmoqqa bo‘lgan murojaatlarini chegaralash qaysi himoya vositasining vazifasi hisoblanadi.====
+Manba:  
 
-#Tarmoqlararo ekran.
+Qiyinlik darajasi – 1
 
-====Antivirus.
+Ichki tarmoq foydalanuvchilarini tashqi tarmoqqa bo‘lgan murojaatlarini chegaralash qaysi himoya vositasining vazifasi hisoblanadi.
 
-====Virtual himoyalangan tarmoq.
+Tarmoqlararo ekran.
 
-====Router.
+Antivirus.
 
-++++
+Virtual himoyalangan tarmoq.
 
+Router.
+
  
+
+№ 102. 
+
+Manba: 
 
-Yo’q qilish usullari orasidan ekologik jihatdan ma’qullanmaydigan va maxsus joy talab qiladigan usul qaysi?====
+Qiyinlik darajasi – 1
 
-#Yoqish
+2 lik sanoq tizimida 11011 soniga 11010 sonini 2 modul bo‘yicha qo‘shing?
 
-====Ko’mish
+00001
 
-====Maydalash
+10000
 
-====Kimyoviy ishlov berish
+01100
 
-++++
+11111
 
  
 
-Qanday tahdidlar passiv hisoblanadi?====
+№ 103.
 
-#Amalga oshishida axborot strukturasi va mazmunida hech narsani o‘zgartirmaydigan  tahdidlar
+Manba: 
 
-====Hech qachon amalga oshirilmaydigan tahdidlar
+Qiyinlik darajasi – 1
 
-====Axborot xavfsizligini buzmaydigan tahdidlar
+2 lik sanoq tizimida 11011 soniga 00100 sonini 2 modul bo’yicha qo’shing?
 
-====Texnik vositalar bilan bog‘liq bo‘lgan tahdidlar
+11111
 
-++++
+10101
 
+11100
+
+01001
+
  
+
+№ 104.
 
-2 lik sanoq tizimida 11011 soniga 11010 sonini 2 modul bo’yicha qo’shing?====
+Manba: 
 
-#00001
+Qiyinlik darajasi – 1
 
-====01100
+2 lik sanoq tizimida 11011 soniga 11010 sonini 2 modul bo’yicha qo’shing?
 
-====10000
+00001
 
-====11111
+10000
 
-++++
+01100
 
+11111
+
  
+
+№ 105.
+
+Manba: 
 
-Axborot saqlagich vositalaridan qayta foydalanish xususiyatini saqlab qolgan holda axborotni yo’q qilish usuli qaysi?====
+Qiyinlik darajasi – 1
 
-#Bir necha marta takroran yozish va maxsus dasturlar yordamida saqlagichni tozalash
+Axborot saqlagich vositalaridan qayta foydalanish xususiyatini saqlab qolgan holda axborotni yo’q qilish usuli qaysi?
 
-====Formatlash
+Bir necha marta takroran yozish va maxsus dasturlar yordamida saqlagichni tozalash
 
-====Magnitsizlantirish
+Magnitsizlantirish
 
-====Axborotni saqlagichdan o’chirish
+Formatlash
 
-++++
+Axborotni saqlagichdan o’chirish
 
  
 
-Elektron ma’lumotlarni yo’q qilishda maxsus qurilma ichida joylashtirilgan saqlagichning xususiyatlari o’zgartiriladigan usul bu ...====
+№ 106.
 
-#magnitsizlantirish.
+Manba: 
 
-====shredirlash.
+Qiyinlik darajasi – 1
 
-====yanchish.
+Elektron ma’lumotlarni yo’q qilishda maxsus qurilma ichida joylashtirilgan saqlagichning xususiyatlari o’zgartiriladigan usul bu ...
 
-====formatlash.
+magnitsizlantirish.
 
-++++
+shredirlash.
 
+yanchish.
+
+formatlash.
+
  
+
+№ 107.
 
-2 lik sanoq tizimida 11011 soniga 11010 sonini 2 modul bo‘yicha qo‘shing?====
+Manba: 
 
-#00001
+Qiyinlik darajasi – 1
 
-====11111
+Yo’q qilish usullari orasidan ekologik jihatdan ma’qullanmaydigan va maxsus joy talab qiladigan usul qaysi?
 
-====01100
+Yoqish
 
-====10000
+Maydalash
 
-++++
+Ko’mish
 
+Kimyoviy ishlov berish
+
  
+
+№ 108.
+
+Manba: 
 
-Kiberjinoyatchilik bu - ?====
+Qiyinlik darajasi – 1
 
-#Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoiy faoliyat.
+Kiberjinoyatchilik bu - ?
 
-====Tizimlarni, tarmoqlarni va dasturlarni raqamli hujumlardan himoyalash amaliyoti.
+Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoiy faoliyat.
 
-====Hisoblashga asoslangan bilim sohasi bo‘lib, buzg‘unchilar mavjud bo‘lgan sharoitda amallarni kafolatlash uchun o‘zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.
+Kompyuterlar bilan bog‘liq falsafiy soha bo‘lib, foydalanuvchilarning xatti-harakatlari, kompyuterlar nimaga dasturlashtirilganligi va umuman insonlarga va jamiyatga qanday ta’sir ko‘rsatishini o‘rganadi.
 
-====Kompyuterlar bilan bog‘liq falsafiy soha bo‘lib, foydalanuvchilarning xatti-harakatlari, kompyuterlar nimaga dasturlashtirilganligi va umuman insonlarga va jamiyatga qanday ta’sir ko‘rsatishini o‘rganadi.
+Hisoblashga asoslangan bilim sohasi bo‘lib, buzg‘unchilar mavjud bo‘lgan sharoitda amallarni kafolatlash uchun o‘zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.
 
-++++
+Tizimlarni, tarmoqlarni va dasturlarni raqamli hujumlardan himoyalash amaliyoti.
 
  
 
-Quyidagilardan qaysilari ananaviy tarmoq turi hisoblanadi?====
+№ 109.
 
-#WAN, MAN, LAN
+Manba: 
 
-====UDP, TCP/IP, FTP
+Qiyinlik darajasi – 1
 
-====OSI, TCP/IP
+Kiberetika bu - ?
 
-====Halqa, yulduz, shina, daraxt
+Kompyuterlar bilan bog‘liq falsafiy soha bo‘lib, foydalanuvchilarning xatti-harakatlari, kompyuterlar nimaga dasturlashtirilganligi va umuman insonlarga va jamiyatga qanday ta’sir ko‘rsatishini o‘rganadi.
 
-++++
+Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoiy faoliyat.
 
+Hisoblashga asoslangan bilim sohasi bo‘lib, buzg‘unchilar mavjud bo‘lgan sharoitda amallarni kafolatlash uchun o‘zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.
+
+Tizimlarni, tarmoqlarni va dasturlarni raqamli hujumlardan himoyalash amaliyoti.
+
  
+
+№ 10.
 
-Shaxsiy simsiz tarmoqlar qo‘llanish sohasini belgilang====
+Manba: 
 
-#Tashqi qurilmalar kabellarining o‘rnida
+Qiyinlik darajasi – 1
 
-====Binolar va korxonalar va internet orasida belgilangan simsiz bog‘lanish
+Shaxsiy simsiz tarmoqlar qo‘llanish sohasini belgilang
 
-====Butun dunyo bo‘yicha internetdan foydalanishda
+Tashqi qurilmalar kabellarining o‘rnida
 
-====Simli tarmoqlarni mobil kengaytirish
+Binolar va korxonalar va internet orasida belgilangan simsiz bog‘lanish
 
-++++
+Butun dunyo bo‘yicha internetdan foydalanishda
 
+Simli tarmoqlarni mobil kengaytirish
+
  
+
+№ 111.
 
-VPNning texnik yechim arxitekturasiga ko’ra turlari keltirilgan qatorni aniqlang?====
+Manba: 
 
-#Korporativ tarmoq ichidagi VPN; masofadan foydalaniluvchi VPN; korporativ tarmoqlararo VPN
+Qiyinlik darajasi – 1
 
-====Kanal sathidagi VPN; tarmoq sathidagi VPN; seans sathidagi VPN
+VPNning texnik yechim arxitekturasiga ko’ra turlari keltirilgan qatorni aniqlang?
 
-====Dasturiy ko’rinishdagi VPN; maxsus shifrlash protsessoriga ega apparat vosita ko’rinishidagi VPN
+Korporativ tarmoq ichidagi VPN; masofadan foydalaniluvchi VPN; korporativ tarmoqlararo VPN
 
-====Marshuritizator ko’rinishidagi VPN; tramoqlararo ekran ko’rinishidagi VPN
+Kanal sathidagi VPN; tarmoq sathidagi VPN; seans sathidagi VPN
 
-++++
+Marshuritizator ko’rinishidagi VPN; tramoqlararo ekran ko’rinishidagi VPN
 
+Dasturiy ko’rinishdagi VPN; maxsus shifrlash protsessoriga ega apparat vosita ko’rinishidagi VPN
+
  
+
+№ 112.
 
-Yong‘inga qarshi kurashishning aktiv usuli to‘g‘ri ko‘rsatilgan javobni toping?====
+Manba: 
 
-#Tutunni aniqlovchilar, alangani aniqlovchilar va issiqlikni aniqlovchilar
+Qiyinlik darajasi – 1
 
-====Binoga istiqomat qiluvchilarni yong‘in sodir bo‘lganda qilinishi zarur bo‘lgan ishlar bilan tanishtirish
+Axborotning konfidensialligi va butunligini ta’minlash uchun ikki uzel orasida himoyalangan tunelni quruvchi himoya vositasi bu?
 
-====Yetarli sondagi qo‘shimcha chiqish yo‘llarining mavjudligi
+Virtual Private Network
 
-====Minimal darajada yonuvchan materiallardan foydalanish, qo‘shimcha etaj va xonalar qurish
+Firewall
 
-++++
+Antivirus
 
+IDS
+
  
+
+№ 113.
+
+Manba: 
 
-2 lik sanoq tizimida 11011 soniga 00100 sonini 2 modul bo’yicha qo’shing?====
+Qiyinlik darajasi – 1
 
-#11111
+Qanday tahdidlar passiv hisoblanadi?
 
-====10101
+Amalga oshishida axborot strukturasi va mazmunida hech narsani o‘zgartirmaydigan  tahdidlar
 
-====11100
+Hech qachon amalga oshirilmaydigan tahdidlar
 
-====01001
+Axborot xavfsizligini buzmaydigan tahdidlar
 
-++++
+Texnik vositalar bilan bog‘liq bo‘lgan tahdidlar
 
  
 
-Quyidagi qaysi hujum turi razvedka hujumlari turiga kirmaydi?====
+№ 114.
 
-#Ddos
+Manba: 
 
-====Paketlarni snifferlash
+Qiyinlik darajasi – 1
 
-====Portlarni skanerlash
+Quyidagi qaysi hujum turi razvedka hujumlari turiga kirmaydi?
 
-====Ping buyrug‘ini yuborish
+Ddos
 
-++++
+Paketlarni snifferlash
 
+Portlarni skanerlash
+
+Ping buyrug‘ini yuborish
+
  
+
+№ 115.
 
-Trafik orqali axborotni to’plashga harakat qilish razvedka hujumlarining qaysi turida amalga oshiriladi?====
+Manba: 
 
-#Passiv
+Qiyinlik darajasi – 1
 
-====Lug’atga asoslangan
+Trafik orqali axborotni to’plashga harakat qilish razvedka hujumlarining qaysi turida amalga oshiriladi?
 
-====DNS izi
+Passiv
 
-====Aktiv
+DNS izi
 
-++++
+Lug’atga asoslangan
 
+Aktiv
+
  
+
+№ 116.
+
+Manba: 
 
-Portlarni va operatsion tizimni skanerlash razvedka hujumlarining qaysi turida amalga oshiriladi?====
+Qiyinlik darajasi – 1
 
-#Aktiv
+Portlarni va operatsion tizimni skanerlash razvedka hujumlarining qaysi turida amalga oshiriladi?
 
-====Passiv
+Aktiv
 
-====DNS izi
+Passiv
 
-====Lug’atga asoslangan
+DNS izi
 
-++++
+Lug’atga asoslangan
 
  
 
-Quyidagilardan qaysilari tarmoq topologiyalari hisoblanadi?====
+№ 117.
 
-#Halqa, yulduz, shina, daraxt
+Manba: 
 
-====UDP, TCP/IP, FTP
+Qiyinlik darajasi – 1
 
-====OSI, TCP/IP
+Paketlarni snifferlash, portlarni skanerlash, ping buyrug’ini yuborish qanday hujum turiga misol bo’ladi?
 
-====SMTP, HTTP, UDP
+Razvedka hujumlari
 
-++++
+Xizmatdan voz kechishga undash hujumlari
 
+Zararli hujumlar
+
+Kirish hujumlari
+
  
+
+№ 118.
 
-DNS serverlari tarmoqda qanday vazifani amalga oshiradi?====
+Manba: 
 
-#Xost nomlari va internet nomlarini IP manzillarga o’zgartirish va teskarisini amalga oshiradi
+Qiyinlik darajasi – 1
 
-====Ichki tarmoqqa ulanishga harakat qiluvchi boshqa tarmoq uchun kiruvchi nuqta vazifasini bajaradi
+DNS serverlari tarmoqda qanday vazifani amalga oshiradi?
 
-====Internet orqali ma’lumotlarni almashinuvchi turli ilovalar uchun tarmoq ulanishlarini sozlash funksiyasini amalga oshiradi
+Xost nomlari va internet nomlarini IP manzillarga o’zgartirish va teskarisini amalga oshiradi
 
-====Tashqi tarmoqqa ulanishga harakat qiluvchi ichki tarmoq uchun chiqish nuqtasi vazifasini bajaradi
+Ichki tarmoqqa ulanishga harakat qiluvchi boshqa tarmoq uchun kiruvchi nuqta vazifasini bajaradi
 
-++++
+Tashqi tarmoqqa ulanishga harakat qiluvchi ichki tarmoq uchun chiqish nuqtasi vazifasini bajaradi
 
+Internet orqali ma’lumotlarni almashinuvchi turli ilovalar uchun tarmoq ulanishlarini sozlash funksiyasini amalga oshiradi
+
  
+
+№ 119.
+
+Manba: 
 
-Quyidagilarnnig qaysi biri tabiiy tahdidlarga misol bo’la oladi?====
+Qiyinlik darajasi – 1
 
-#Toshqinlar, yong’in, zilzila
+Markaziy xab yoki tugun orqali tarmoqni markazlashgan holda boshqarish qaysi tarmoq topologiyasida amalga oshiriladi?
 
-====Bosqinchilik, terrorizm, o‘g‘irlik
+Yulduz
 
-====Terorizim, toshqinlar, zilzila
+Shina
 
-====O’g’irlik, toshqinlar, zilzila
+Xalqa
 
-++++
+Mesh
 
  
 
-Kiberetika bu - ?====
+№ 120.
 
-#Kompyuterlar bilan bog‘liq falsafiy soha bo‘lib, foydalanuvchilarning xatti-harakatlari, kompyuterlar nimaga dasturlashtirilganligi va umuman insonlarga va jamiyatga qanday ta’sir ko‘rsatishini o‘rganadi.
+Manba: 
 
-====Tizimlarni, tarmoqlarni va dasturlarni raqamli hujumlardan himoyalash amaliyoti
+Qiyinlik darajasi – 1
 
-====Hisoblashga asoslangan bilim sohasi bo‘lib, buzg‘unchilar mavjud bo‘lgan sharoitda amallarni kafolatlash uchun o‘zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.
+Quyidagilardan qaysilari ananaviy tarmoq turi hisoblanadi?
 
-====Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoiy faoliyat.
+WAN, MAN, LAN
 
-++++
+OSI, TCP/IP
 
+UDP, TCP/IP, FTP
+
+Halqa, yulduz, shina, daraxt
+
  
+
+№ 121.
 
-Paketlarni snifferlash, portlarni skanerlash, ping buyrug’ini yuborish qanday hujum turiga misol bo’ladi?====
+Manba: 
 
-#Razvedka hujumlari
+Qiyinlik darajasi – 1
 
-====Xizmatdan voz kechishga undash hujumlari
+Quyidagilardan qaysilari tarmoq topologiyalari hisoblanadi?
 
-====Kirish hujumlari
+Halqa, yulduz, shina, daraxt
 
-====Zararli hujumlar
+UDP, TCP/IP, FTP
 
-++++
+OSI, TCP/IP
 
+SMTP, HTTP, UDP
+
  
+
+№ 122.
+
+Manba: 
 
-Markaziy xab yoki tugun orqali tarmoqni markazlashgan holda boshqarish qaysi tarmoq topologiyasida amalga oshiriladi?====
+Qiyinlik darajasi – 1
 
-#Yulduz
+Yong’inga qarshi tizimlarni aktiv chora turiga quyidagilardan qaysilari kiradi?
 
-====Shina
+Yong’inni aniqlash va bartaraf etish tizimi
 
-====Mesh
+Minimal darajada yonuvchan materiallardan foydalanish
 
-====Xalqa
+Yetarlicha miqdorda qo’shimcha chiqish yo’llarini mavjudligi
 
-++++
+Yong’inga aloqador tizimlarni to’g’ri madadlanganligi
 
  
 
-Axborotning konfidensialligi va butunligini ta’minlash uchun ikki uzel orasida himoyalangan tunelni quruvchi himoya vositasi bu?====
+№ 123.
 
-#Virtual Private Network
+Manba: 
 
-====Firewall
+Qiyinlik darajasi – 1
 
-====IDS
+Yong‘inga qarshi kurashishning aktiv usuli to‘g‘ri ko‘rsatilgan javobni toping?
 
-====Antivirus
+Tutunni aniqlovchilar, alangani aniqlovchilar va issiqlikni aniqlovchilar
 
-++++
+Binoga istiqomat qiluvchilarni yong‘in sodir bo‘lganda qilinishi zarur bo‘lgan ishlar bilan tanishtirish
 
+Minimal darajada yonuvchan materiallardan foydalanish, qo‘shimcha etaj va xonalar qurish
+
+Yetarli sondagi qo‘shimcha chiqish yo‘llarining mavjudligi
+
  
+
+№ 124.
+
+Manba: 
 
-Yong‘inga qarshi kurashishning passiv usuliga kiruvchi choralarni to‘g‘ri ko‘rsatilgan javobni toping?====
+Qiyinlik darajasi – 1
 
-#Minimal darajada yonuvchan materiallardan foydalanish, qo‘shimcha etaj va xonalar qurish
+Yong‘inga qarshi kurashishning passiv usuliga kiruvchi choralarni to‘g‘ri ko‘rsatilgan javobni toping?
 
-====O‘t o’chirgich, suv purkash tizimlari
+Minimal darajada yonuvchan materiallardan foydalanish, qo‘shimcha etaj va xonalar qurish
 
-====Tutun va alangani aniqlovchilar
+Tutun va alangani aniqlovchilar
 
-====Tutun va alangani aniqlovchilar va suv purkash tizimlari
+O‘t o’chirgich, suv purkash tizimlari
 
-++++
+Tutun va alangani aniqlovchilar va suv purkash tizimlari
 
  
 
-Fizik himoyani buzilishiga olib keluvchi tahdidlar yuzaga kelish shakliga ko‘ra qanday guruhlarga bo‘linadi?====
+№ 125.
 
-#Tabiy va sun’iy
+Manba: 
 
-====Aktiv va passiv
+Qiyinlik darajasi – 1
 
-====Ichki va tashqi
+Fizik himoyani buzilishiga olib keluvchi tahdidlar yuzaga kelish shakliga ko‘ra qanday guruhlarga bo‘linadi?
 
-====Bir faktorlik  va ko‘p faktorli
+Tabiy va sun’iy
 
-++++
+Ichki va tashqi
 
+Aktiv va passiv
+
+Bir faktorlik  va ko‘p faktorli
+
  
+
+№ 126.
 
-Yong’inga qarshi tizimlarni aktiv chora turiga quyidagilardan qaysilari kiradi?====
+Manba: 
 
-#Yong’inni aniqlash va bartaraf etish tizimi
+Qiyinlik darajasi – 1
 
-====Minimal darajada yonuvchan materiallardan foydalanish
+Quyidagilarnnig qaysi biri tabiiy tahdidlarga misol bo’la oladi?
 
-====Yetarlicha miqdorda qo’shimcha chiqish yo’llarini mavjudligi
+Toshqinlar, yong’in, zilzila
 
-====Yong’inga aloqador tizimlarni to’g’ri madadlanganligi
+Bosqinchilik, terrorizm, o‘g‘irlik
 
-++++
+O’g’irlik, toshqinlar, zilzila
 
+Terorizim, toshqinlar, zilzila
+
  
+
+№ 127.
+
+Manba: 
 
-Quyidagilarnnig qaysi biri sun’iy tahdidlarga misol bo’la oladi?====
+Qiyinlik darajasi – 1
 
-#Bosqinchilik, terrorizm, o‘g‘irlik
+Quyidagilarnnig qaysi biri sun’iy tahdidlarga misol bo’la oladi?
 
-====Toshqinlar, zilzila, toshqinlar
+Bosqinchilik, terrorizm, o‘g‘irlik
 
-====O’g’irlik, toshqinlar, zilzila
+Toshqinlar, zilzila, toshqinlar
 
-====Terorizim, toshqinlar, zilzila
+O’g’irlik, toshqinlar, zilzila
 
-++++
+Terorizim, toshqinlar, zilzila
 
  
 
-A5/1 oqimli shifrlash algoritmida maxfiy kalit necha registrga bo’linadi?====
+№ 128.
 
-#3
+Manba: 
 
-====4
+Qiyinlik darajasi – 1
 
-====5
+Kolliziya hodisasi deb nimaga aytiladi?
 
-====6
+ikki xil matn uchun bir xil xesh qiymat chiqishi
 
-++++
+ikki xil matn uchun ikki xil xesh qiymat chiqishi
 
+bir xil matn uchun bir xil xesh qiymat chiqishi
+
+bir xil matn uchun ikki xil xesh qiymat chiqishi
+
  
+
+№ 129.
 
-GSM tarmog‘ida foydanalaniluvchi shifrlash algoritmi nomini ko‘rsating?====
+Manba: 
 
-#A5/1
+Qiyinlik darajasi – 1
 
-====DES
+GSM tarmog‘ida foydanalaniluvchi shifrlash algoritmi nomini ko‘rsating?
 
-====RC4
+A5/1
 
-====AES
+DES
 
-++++
+AES
 
+RC4
+
  
+
+№ 130.
+
+Manba: 
 
-O‘zbekistonda kriptografiya sohasida faoliyat yurituvchi tashkilot nomini ko‘rsating?====
+Qiyinlik darajasi – 1
 
-#“UNICON.UZ” DUK
+O‘zbekistonda kriptografiya sohasida faoliyat yurituvchi tashkilot nomini ko‘rsating?
 
-====“O‘zstandart” agentligi
+“UNICON.UZ” DUK
 
-====Davlat Soliq Qo‘mitasi
+“O‘zstandart” agentligi
 
-====Kadastr agentligi
+Davlat Soliq Qo‘mitasi
 
-++++
+Kadastr agentligi
 
  
 
-Kriptotizimlar kalitlar soni bo‘yicha qanday turga bo‘linadi?====
+№ 131.
 
-#simmetrik va assimetrik turlarga
+Manba: 
 
-====simmetrik va bir kalitli turlarga
+Qiyinlik darajasi – 2
 
-====assimetrik va 2  kalitli turlarga
+RC4  shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?
 
-====3 kalitli turlarga
+1
 
-++++
+2
 
+3
+
+4
+
  
+
+№ 132.
 
-A5/1  shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?====
+Manba: 
 
-#1
+Qiyinlik darajasi – 2
 
-====2
+A5/1  shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?
 
-====3
+1
 
-====4
+2
 
-++++
+3
 
+4
+
  
+
+№ 133.
+
+Manba: 
 
-Quyida keltirilgan xususiyatlarning qaysilari xesh funksiyaga mos?====
+Qiyinlik darajasi – 2
 
-#chiqishda fiksirlangan uzunlikdagi qiymatni beradi
+AES  shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?
 
-====chiqishdagi qiymat bilan kiruvchi qiymatlar bir xil bo‘ladi
+1
 
-====chiqishda bir xil qiymatni beradi
+2
 
-====kolliziyaga ega
+3
 
-++++
+4
 
  
 
-DES shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?====
+№ 134.
 
-#1
+Manba: 
 
-====2
+Qiyinlik darajasi – 2
 
-====3
+DES shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?
 
-====4
+1
 
-++++
+2
 
+3
+
+4
+
  
+
+№ 135.
 
-Kolliziya hodisasi deb nimaga aytiladi?====
+Manba: 
 
-#ikki xil matn uchun bir xil xesh qiymat chiqishi
+Qiyinlik darajasi – 2
 
-====ikki xil matn uchun ikki xil xesh qiymat chiqishi
+A5/1 oqimli shifrlash algoritmida maxfiy kalit necha registrga bo’linadi?
 
-====bir xil matn uchun bir xil xesh qiymat chiqishi
+3
 
-====bir xil matn uchun ikki xil xesh qiymat chiqishi
+4
 
-++++
+5
 
+6
+
  
+
+№ 136.
 
-Assimetrik kriptotizimlarda necha kalitdan foydalaniladi?====
+Manba: 
 
-#2 ta
+Qiyinlik darajasi – 2
 
-====4 ta
+Faqat simmetrik blokli shifrlarga xos bo‘lgan atamani aniqlang?
 
-====3 ta
+blok uzunligi
 
-====kalit ishlatilmaydi
+kalit uzunligi
 
-++++
+ochiq kalit
 
+kodlash jadvali
+
  
+
+№ 137.
 
-A5/1 shifri qaysi turga mansub?====
+Manba: 
 
-#oqimli shifrlar
+Qiyinlik darajasi – 2
 
-====blokli shifrlar
+A5/1 shifri qaysi turga mansub?
 
-====ochiq kalitli shifrlar
+oqimli shifrlar
 
-====assimetrik shifrlar
+blokli shifrlar
 
-++++
+ochiq kalitli shifrlar
 
+assimetrik shifrlar
+
  
+
+№ 138.
+
+Manba: 
 
-A5/1 oqimli shifrlash algoritmida dastlabki kalit uzunligi nechi bitga teng?====
+Qiyinlik darajasi – 2
 
-#64
+.... shifrlar blokli va oqimli turlarga ajratiladi
 
-====512
+simmetrik
 
-====256
+ochiq kalitli
 
-====192
+assimetrik
 
-++++
+klassik
 
  
 
-Quyida keltirilgan xususiyatlarning qaysilari xesh funksiyaga mos?====
+№ 139.
 
-#ixtiyoriy olingan har xil matn uchun xesh qiymatlar bir xil bo‘lmaydi
+Manba: 
 
-====ixtiyoriy olingan har xil matn uchun xesh qiymatlar bir xil bo‘ladi
+Qiyinlik darajasi – 2
 
-====ixtiyoriy olingan bir xil matn uchun qiymatlar bir xil bo‘lmaydi
+Quyida keltirilgan xususiyatlarning qaysilari xesh funksiyaga mos?
 
-====ixtiyoriy olingan har xil xesh qiymat uchun dastlabki ma’lumotlar bir xil bo‘ladi
+ixtiyoriy olingan har xil matn uchun xesh qiymatlar bir xil bo‘lmaydi
 
-++++
+ixtiyoriy olingan bir xil matn uchun qiymatlar bir xil bo‘lmaydi
 
+ixtiyoriy olingan har xil matn uchun xesh qiymatlar bir xil bo‘ladi
+
+ixtiyoriy olingan har xil xesh qiymat uchun dastlabki ma’lumotlar bir xil bo‘ladi
+
  
+
+№ 140.
 
-AES  shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?====
+Manba: 
 
-#1
+Qiyinlik darajasi – 2
 
-====2
+Quyida keltirilgan xususiyatlarning qaysilari xesh funksiyaga mos?
 
-====3
+chiqishda fiksirlangan uzunlikdagi qiymatni beradi
 
-====4
+chiqishda bir xil qiymatni beradi
 
-++++
+chiqishdagi qiymat bilan kiruvchi qiymatlar bir xil bo‘ladi
 
+kolliziyaga ega
+
  
+
+№ 141.
+
+Manba: 
 
-Xesh qiymatlarni yana qanday atash mumkin?====
+Qiyinlik darajasi – 2
 
-#dayjest
+Xesh qiymatlarni yana qanday atash mumkin?
 
-====imzo
+dayjest
 
-====Funksiya
+funksiya
 
-====raqamli imzo
+imzo
 
-++++
+raqamli imzo
 
  
 
-.... shifrlar blokli va oqimli turlarga ajratiladi====
+№ 142.
 
-#simmetrik
+Manba: 
 
-====ochiq kalitli
+Qiyinlik darajasi – 2
 
-====Klassik
+A5/1 oqimli shifrlash algoritmida dastlabki kalit uzunligi nechi bitga teng?
 
-====assimetrik
+64
 
-++++
+512
 
+192
+
+256
+
  
+
+№ 143.
+
+Manba: 
 
-A5/1 oqimli shifrlash algoritmi asosan qayerda qo‘llaniladi?====
+Qiyinlik darajasi – 2
 
-#mobil aloqa standarti GSM protokolida
+A5/1 oqimli shifrlash algoritmi asosan qayerda qo‘llaniladi?
 
-====simsiz aloqa vositalaridagi mavjud WEP protokolida
+mobil aloqa standarti GSM protokolida
 
-====radioaloqa tarmoqlarida
+simsiz aloqa vositalaridagi mavjud WEP protokolida
 
-====internet trafiklarini shifrlashda
+internet trafiklarini shifrlashda
 
-++++
+radioaloqa tarmoqlarida
 
  
 
-RSA algoritmida p#5, q#13,  e#7 ga teng bo‘lsa, shaxsiy kalitni hisoblang?====
+№ 144.
 
-#7
+Manba: 
 
-====13
+Qiyinlik darajasi – 2
 
-====35
+Assimetrik kriptotizimlarda necha kalitdan foydalaniladi?
 
-====65
+2 ta
 
-++++
+3 ta
 
+4 ta
+
+kalit ishlatilmaydi
+
  
+
+№ 145.
 
-Simmetrik kriptotizimlarda necha kalitdan foydalaniladi?====
+Manba: 
 
-#1 ta
+Qiyinlik darajasi – 2
 
-====4 ta
+Simmetrik kriptotizimlarda necha kalitdan foydalaniladi?
 
-====3 ta
+1 ta
 
-====kalit ishlatilmaydi
+3 ta
 
-++++
+4 ta
 
+kalit ishlatilmaydi
+
  
+
+№ 146.
+
+Manba: 
 
-Jumlani to‘ldiring. Simmetrik shifrlash algoritmlari ochiq ma’lumotdan foydalanish tartibiga ko‘ra ...====
+Qiyinlik darajasi – 2
 
-#blokli va oqimli turlarga bo‘linadi.
+Kriptotizimlar kalitlar soni bo‘yicha qanday turga bo‘linadi?
 
-====bir kalitli va ikki kalitli turlarga bo‘linadi.
+simmetrik va assimetrik turlarga
 
-====Feystel tarmog‘iga asoslangan va SP tarmog‘iga asoslangan turlarga bo‘linadi.
+simmetrik va bir kalitli turlarga
 
-====murakkablikka va tizimni nazariy yondoshuvga asoslangan turlarga bo‘linadi.
+3 kalitli turlarga
 
-++++
+assimetrik va 2  kalitli turlarga
 
  
 
-Kriptologiya qanday yo‘nalishlarga bo‘linadi?====
+№ 147.
 
-#kriptografiya va kriptotahlil
+Manba: 
 
-====kriptografiya va kriptotizim
+Qiyinlik darajasi – 2
 
-====kripto va kriptotahlil
+Kriptologiya qanday yo‘nalishlarga bo‘linadi?
 
-====kriptoanaliz va kriptotizim
+kriptografiya va kriptotahlil
 
-++++
+kriptografiya va kriptotizim
 
+kripto va kriptotahlil
+
+kriptoanaliz va kriptotizim
+
  
+
+№ 148.
 
-Qaysi chora tadbirlar virusdan zararlanish holatini kamaytiradi?====
+Manba: 
 
-#Barcha javoblar to‘g‘ri
+Qiyinlik darajasi – 2
 
-====Faqat litsenziyali dasturiy ta’minotdan foydalanish.
+Qaysi chora tadbirlar virusdan zararlanish holatini kamaytiradi?
 
-====Kompyuterni zamonaviy antivirus dasturiy vositasi bilan ta’minlash va uni doimiy yangilab borish.
+Barcha javoblar to‘g‘ri
 
-====Boshqa komyuterda yozib olingan ma’lumotlarni o‘qishdan oldin har bir saqlagichni antivirus tekshiruvidan o‘tkazish.
+Faqat litsenziyali dasturiy ta’minotdan foydalanish.
 
-++++
+Kompyuterni zamonaviy antivirus dasturiy vositasi bilan ta’minlash va uni doimiy yangilab borish.
 
+Boshqa komyuterda yozib olingan ma’lumotlarni o‘qishdan oldin har bir saqlagichni antivirus tekshiruvidan o‘tkazish.
+
  
+
+№ 149.
 
-Eng zaif simsiz tarmoq protokolini ko‘rsating?====
+Manba: 
 
-#WEP
+Qiyinlik darajasi – 2
 
-====WPA2
+Antivirus dasturiy vositalari zararli dasturlarga qarshi to‘liq himoyani ta’minlay olmasligining asosiy sababini ko‘rsating?
 
-====WPA
+Paydo bo‘layotgan zararli dasturiy vositalar sonining ko‘pligi.
 
-====WPA3
+Viruslar asosan antivirus ishlab chiqaruvchilar tomonidan yaratilishi.
 
-++++
+Antivirus vositalarining samarali emasligi.
 
+Aksariyat antivirus vositalarining pullik ekanligi.
+
  
+
+№ 150.
 
-… umumiy tarmoqni ichki va tashqi qismlarga ajratib himoyalash imkonini beradi.====
+Manba: 
 
-#Tarmoqlararo ekran
+Qiyinlik darajasi – 2
 
-====Virtual himoyalangan tarmoq
+… umumiy tarmoqni ichki va tashqi qismlarga ajratib himoyalash imkonini beradi. 
 
-====Korxona tarmog‘i
+Tarmoqlararo ekran
 
-====Global tarmoq
+Virtual himoyalangan tarmoq
 
-++++
+Global tarmoq
 
+Korxona tarmog‘i
+
  
+
+№ 151.
+
+Manba: 
 
-Faqat simmetrik blokli shifrlarga xos bo‘lgan atamani aniqlang?====
+Qiyinlik darajasi – 2
 
-#blok uzunligi
+RSA algoritmida p=5, q=13,  e=7 ga teng bo‘lsa, shaxsiy kalitni hisoblang?
 
-====ochiq kalit
+7
 
-====kalit uzunligi
+13
 
-====kodlash jadvali
+65
 
-++++
+35
 
  
 
-RC4  shifrlash algoritmi simmetrik turga mansub bo‘lsa, unda nechta kalitdan foydalaniladi?====
+№ 152.
 
-#1
+Manba: 
 
-====2
+Qiyinlik darajasi – 2
 
-====3
+..... hujumida hujumchi o‘rnatilgan aloqaga suqilib kiradi va aloqani bo‘ladi. Nuqtalar o‘rniga mos javobni qo‘ying.
 
-====4
+O‘rtada turgan odam.
 
-++++
+Qo‘pol kuch.
 
+Parolga qaratilgan.
+
+DNS izi.
+
  
+
+№ 153.
 
-9 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?====
+Manba: 
 
-#10, 8
+Qiyinlik darajasi – 2
 
-====18, 6
+Agar ob’ektning xavfsizlik darajasi sub’ektning xavfsizlik darajasidan kichik yoki teng bo‘lsa, u holda O‘qish uchun ruxsat beriladi. Ushbu qoida qaysi foydalanishni boshqarish usuliga tegishli. 
 
-====6, 10
+MAC
 
-====9 dan tashqari barcha sonlar
+DAC
 
-++++
+RMAC
 
+ABAC
+
  
+
+№ 154.
+
+Manba: 
 
-GSM tarmog‘ida ovozli so‘zlashuvlarni shifrlash algoritmi bu?====
+Qiyinlik darajasi – 2
 
-#A5/1
+GSM tarmog‘ida ovozli so‘zlashuvlarni shifrlash algoritmi bu?
 
-====DES
+A5/1
 
-====RSA
+DES
 
-====ГОСТ
+ГОСТ
 
-++++
+RSA
 
  
 
-RSA algoritmida ochiq kalit e#7, N#35 ga teng bo‘lsa, M#2 ga teng ochiq matnni shifrlash natijasini ko‘rsating?====
+№ 155.
 
-#23
+Manba: 
 
-====5
+Qiyinlik darajasi – 2
 
-====35
+RSA algoritmida ochiq kalit e=7, N=35 ga teng bo‘lsa, M=2 ga teng ochiq matnni shifrlash natijasini ko‘rsating?
 
-====7
+23
 
-++++
+35
 
+5
+
+7
+
  
+
+№ 156.
 
-RSA algoritmida ochiq kalit e#7, N#143 ga teng bo‘lsa, M#2 ga teng ochiq matnni shifrlash natijasini ko‘rsating?====
+Manba: 
 
-#128
+Qiyinlik darajasi – 2
 
-====11
+RSA algoritmida ochiq kalit e=7, N=143 ga teng bo‘lsa, M=2 ga teng ochiq matnni shifrlash natijasini ko‘rsating?
 
-====49
+128
 
-====7
+49
 
-++++
+11
 
+7
+
  
+
+№ 157.
+
+Manba: 
 
-Jumlani to‘ldiring. Agar axborotning o‘g‘irlanishi moddiy va ma’naviy boyliklarning yo‘qotilishiga olib kelsa.====
+Qiyinlik darajasi – 2
 
-#jinoyat sifatida baholanadi.
+Jumlani to‘ldiring. Agar axborotning o‘g‘irlanishi moddiy va ma’naviy boyliklarning yo‘qotilishiga olib kelsa.
 
-====rag‘bat hisoblanadi.
+jinoyat sifatida baholanadi.
 
-====buzg‘unchilik hisoblanadi.
+rag‘bat hisoblanadi.
 
-====guruhlar kurashi hisoblanadi.
+buzg‘unchilik hisoblanadi.
 
-++++
+guruhlar kurashi hisoblanadi.
 
  
 
-Jumlani to‘ldiring. Simli va simsiz tarmoqlar orasidagi asosiy farq ...====
+№ 158.
 
-#tarmoq chetki nuqtalari orasidagi mutlaqo nazoratlamaydigan xudud mavjudigi.
+Manba: 
 
-====tarmoq chetki nuqtalari orasidagi xududning kengligi.
+Qiyinlik darajasi – 2
 
-====himoya vositalarining chegaralanganligi.
+Jumlani to‘ldiring. Simli va simsiz tarmoqlar orasidagi asosiy farq ...
 
-====himoyani amalga oshirish imkoniyati yo‘qligi.
+tarmoq chetki nuqtalari orasidagi mutlaqo nazoratlamaydigan xudud mavjudigi.
 
-++++
+tarmoq chetki nuqtalari orasidagi xududning kengligi.
 
+himoya vositalarining chegaralanganligi.
+
+himoyani amalga oshirish imkoniyati yo‘qligi.
+
  
+
+№ 159.
 
-Agar ob’ektning xavfsizlik darajasi sub’ektning xavfsizlik darajasidan kichik yoki teng bo‘lsa, u holda O‘qish uchun ruxsat beriladi. Ushbu qoida qaysi foydalanishni boshqarish usuliga tegishli.====
+Manba: 
 
-#MAC
+Qiyinlik darajasi – 2
 
-====RMAC
+Jumlani to‘ldiring. Simmetrik shifrlash algoritmlari ochiq ma’lumotdan foydalanish tartibiga ko‘ra ...
 
-====DAC
+blokli va oqimli turlarga bo‘linadi.
 
-====ABAC
+bir kalitli va ikki kalitli turlarga bo‘linadi.
 
-++++
+Feystel tarmog‘iga asoslangan va SP tarmog‘iga asoslangan turlarga bo‘linadi.
 
+murakkablikka va tizimni nazariy yondoshuvga asoslangan turlarga bo‘linadi.
+
  
+
+№ 160.
+
+Manba: 
 
-Jumlani to‘ldiring. Tarmoqlararo ekranning vazifasi ...====
+Qiyinlik darajasi – 2
 
-#ishonchli va ishonchsiz tarmoqlar orasida ma’lumotlarga kirishni boshqarish.
+Jumlani to‘ldiring. Tarmoqlararo ekranning vazifasi ...
 
-====tarmoq hujumlarini aniqlash.
+ishonchli va ishonchsiz tarmoqlar orasida ma’lumotlarga kirishni boshqarish.
 
-====tarmoqdagi xabarlar oqimini uzish va ulash.
+tarmoq hujumlarini aniqlash.
 
-====trafikni taqiqlash.
+trafikni taqiqlash.
 
-++++
+tarmoqdagi xabarlar oqimini uzish va ulash.
 
  
 
-Faktorlash muammosi asosida yaratilgan assimetrik shifrlash usuli?====
+№ 161.
 
-#RSA
+Manba: 
 
-====El-Gamal
+Qiyinlik darajasi – 2
 
-====Elliptik egri chiziqga asoslangan shifrlash
+Faktorlash muammosi asosida yaratilgan assimetrik shifrlash usuli?
 
-====Diffi-Xelman
+RSA
 
-++++
+El-Gamal
 
+Elliptik egri chiziqga asoslangan shifrlash
+
+Diffi-Xelman
+
  
+
+№ 162.
+
+Manba: 
 
-Antivirus dasturiy vositalari zararli dasturlarga qarshi to‘liq himoyani ta’minlay olmasligining asosiy sababini ko‘rsating?====
+Qiyinlik darajasi – 2
 
-#Paydo bo‘layotgan zararli dasturiy vositalar sonining ko‘pligi.
+Eng zaif simsiz tarmoq protokolini ko‘rsating?
 
-====Viruslar asosan antivirus ishlab chiqaruvchilar tomonidan yaratilishi.
+WEP
 
-====Antivirus vositalarining samarali emasligi.
+WPA
 
-====Aksariyat antivirus vositalarining pullik ekanligi.
+WPA2
 
-++++
+WPA3
 
  
 
-Axborotni shifrlashdan maqsadi nima?====
+№ 163.
 
-#Maxfiy xabar mazmunini yashirish.
+Manba: 
 
-====Ma’lumotlarni zichlashtirish, siqish.
+Qiyinlik darajasi – 2
 
-====Malumotlarni yig‘ish va sotish.
+Axborotni shifrlashdan maqsadi nima?
 
-====Ma’lumotlarni uzatish.
+Maxfiy xabar mazmunini yashirish.
 
-++++
+Ma’lumotlarni zichlashtirish, siqish.
 
+Malumotlarni yig‘ish va sotish.
+
+Ma’lumotlarni uzatish.
+
  
+
+№ 164.
 
-..... hujumida hujumchi o‘rnatilgan aloqaga suqilib kiradi va aloqani bo‘ladi. Nuqtalar o‘rniga mos javobni qo‘ying.====
+Manba: 
 
-#O‘rtada turgan odam.
+Qiyinlik darajasi – 2
 
-====Qo‘pol kuch.
+9 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?
 
-====Parolga qaratilgan.
+10, 8
 
-====DNS izi.
+6, 10
 
-++++
+18, 6
 
+9 dan tashqari barcha sonlar
+
  
+
+№ 165.
+
+Manba: 
 
-Kompyuter viruslarini tarqalish usullarini ko‘rsating?====
+Qiyinlik darajasi – 2
 
-#Ma’lumot saqlovchilari, Internetdan yuklab olish va elektron pochta orqali.
+12 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?
 
-====Ma’lumot saqlovchilari, Internetdan yuklab olish va skaner qurilmalari orqali.
+11, 13
 
-====Printer qurilmasi, Internetdan yuklab olish va elektron pochta orqali.
+14, 26
 
-====Barcha javoblar to‘g‘ri.
+144, 4
 
-++++
+12 dan tashqari barcha sonlar
 
  
 
-13 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?====
+№ 166.
 
-#5, 7
+Manba: 
 
-====13 dan tashqari barcha sonlar
+Qiyinlik darajasi – 2
 
-====14, 39
+13 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?
 
-====12, 26
+5, 7
 
-++++
+12, 26
 
+14, 39
+
+13 dan tashqari barcha sonlar
+
  
+
+№ 167.
 
-Ma’lumotni to‘liq qayta tiklash qachon samarali amalga oshiriladi?====
+Manba: 
 
-#Saqlagichda ma’lumot qayta yozilmagan bo‘lsa.
+Qiyinlik darajasi – 2
 
-====Ma’lumotni o‘chirish Delete buyrug‘i bilan amalga oshirilgan bo‘lsa.
+Jumlani to‘ldiring. Autentifikatsiya tizimlari asoslanishiga ko‘ra ... turga bo‘linadi.
 
-====Ma’lumotni o‘chirish Shifr+Delete buyrug‘i bilan amalga oshirilgan bo‘lsa.
+3
 
-====Formatlash asosida ma’lumot o‘chirilgan bo‘lsa.
+2
 
-++++
+4
 
+5
+
  
+
+№ 168.
+
+Manba: 
 
-… umumiy tarmoqni ichki va tashqi qismlarga ajratib himoyalash imkonini beradi.====
+Qiyinlik darajasi – 2
 
-#Tarmoqlararo ekran
+… umumiy tarmoqni ichki va tashqi qismlarga ajratib himoyalash imkonini beradi. 
 
-====Virtual himoyalangan tarmoq
+Tarmoqlararo ekran
 
-====Korxona tarmog‘I
+Virtual himoyalangan tarmoq
 
-====Global tarmoq
+Global tarmoq
 
-++++
+Korxona tarmog‘i
 
  
 
-Qaysi chora tadbirlar virusdan zararlanish holatini kamaytiradi?====
+№ 169.
 
-#Barcha javoblar to‘g‘ri
+Manba: 
 
-====Faqat litsenziyali dasturiy ta’minotdan foydalanish.
+Qiyinlik darajasi – 2
 
-====Boshqa komyuterda yozib olingan ma’lumotlarni o‘qishdan oldin har bir saqlagichni antivirus tekshiruvidan o‘tkazish.
+Antivirus dasturiy vositalari zararli dasturlarga qarshi to‘liq himoyani ta’minlay olmasligining asosiy sababini ko‘rsating?
 
-====Kompyuterni zamonaviy antivirus dasturiy vositasi bilan ta’minlash va uni doimiy yangilab borish.
+Paydo bo‘layotgan zararli dasturiy vositalar sonining ko‘pligi.
 
-++++
+Viruslar asosan antivirus ishlab chiqaruvchilar tomonidan yaratilishi.
 
+Antivirus vositalarining samarali emasligi.
+
+Aksariyat antivirus vositalarining pullik ekanligi.
+
  
 
-Antivirus dasturiy vositalari zararli dasturlarga qarshi to‘liq himoyani ta’minlay olmasligining asosiy sababini ko‘rsating?====
+№ 170.
 
-#Paydo bo‘layotgan zararli dasturiy vositalar sonining ko‘pligi.
+Manba: 
 
-====Viruslar asosan antivirus ishlab chiqaruvchilar tomonidan yaratilishi.
+Qiyinlik darajasi – 2
 
-====Antivirus vositalarining samarali emasligi.
+Qaysi chora tadbirlar virusdan zararlanish holatini kamaytiradi?
 
-====Aksariyat antivirus vositalarining pullik ekanligi.
+Barcha javoblar to‘g‘ri
 
-++++
+Faqat litsenziyali dasturiy ta’minotdan foydalanish.
 
- 
+Kompyuterni zamonaviy antivirus dasturiy vositasi bilan ta’minlash va uni doimiy yangilab borish.
+
+Boshqa komyuterda yozib olingan ma’lumotlarni o‘qishdan oldin har bir saqlagichni antivirus tekshiruvidan o‘tkazish.
+
+№ 171.
+
+Manba: 
 
-Qaysi himoya vositasi tomonlarni autentifikatsiyalash imkoniyatini beradi?====
+Qiyinlik darajasi – 3
 
-#Virtual  Private Network.
+Virus aniq bo‘lganda va xususiyatlari aniq ajratilgan holatda eng katta samaradorlikka ega zararli dasturni aniqlash usulini ko‘rsating?
 
-====Tarmoqlararo ekran.
+Signaturaga asoslangan usul
 
-====Router.
+O‘zgarishga asoslangan usul
 
-====Antivirus.
+Anomaliyaga asoslangan usul
 
-++++
+Barcha javoblar to‘g‘ri
 
  
 
-Buzg‘unchiga xavfsizlik tizimini aylanib o‘tib tizimga kirish imkonini beruvchi zararli dastur turi bu-?====
+№ 172.
 
-#Backdoors.
+Manba: 
 
-====Virus.
+Qiyinlik darajasi – 3
 
-====Adware.
+Signatura (antiviruslarga aloqador bo‘lgan)  bu-?
 
-====Troyan otlari.
+Fayldan topilgan bitlar qatori.
 
-++++
+Fayldagi yoki katalogdagi o‘zgarish.
 
+Normal holatdan tashqari holat.
+
+Zararli dastur turi.
+
  
+
+№ 173.
 
-Ochiq tarmoq yordamida himoyalangan tarmoqni qurish imkoniyatiga ega himoya vositasi bu?====
+Manba: 
 
-#Virtual  Private Network.
+Qiyinlik darajasi – 3
 
-====Tapmoklapapo ekran.
+Zararli dasturiy vositalarga qarshi foydalaniluvchi dasturiy vosita bu?
 
-====Antivirus.
+Antivirus
 
-====Router.
+VPN
 
-++++
+Tarmoqlararo ekran
 
+Brandmauer
+
  
+
+№ 174.
 
-12 soni bilan o‘zaro tub bo‘lgan sonlarni ko‘rsating?====
+Manba: 
 
-#11, 13
+Qiyinlik darajasi – 3
 
-====14, 26
+Kompyuter viruslarini tarqalish usullarini ko‘rsating?
 
-====144, 4
+Ma’lumot saqlovchilari, Internetdan yuklab olish va elektron pochta orqali.
 
-====12 dan tashqari barcha sonlar
+Ma’lumot saqlovchilari, Internetdan yuklab olish va skaner qurilmalari orqali.
 
-++++
+Printer qurilmasi, Internetdan yuklab olish va elektron pochta orqali.
 
+Barcha javoblar to‘g‘ri.
+
  
+
+№ 175.
 
-Qurbon kompyuteridagi ma’lumotni shifrlab, uni deshifrlash uchun to‘lovni amalga oshirishni talab qiluvchi zararli dastur bu-?====
+Manba: 
 
-#Ransomware.
+Qiyinlik darajasi – 3
 
-====Mantiqiy bombalar.
+Qurbon kompyuteridagi ma’lumotni shifrlab, uni deshifrlash uchun to‘lovni amalga oshirishni talab qiluvchi zararli dastur bu-?
 
-====Rootkits.
+Ransomware.
 
-====Spyware.
+Mantiqiy bombalar.
 
-++++
+Rootkits.
 
+Spyware.
+
  
+
+№ 176.
+
+Manba: 
 
-Qaysi himoya vositasi yetkazilgan axborotning butunligini tekshiradi?====
+Qiyinlik darajasi – 3
 
-#Virtual  Private Network.
+Internet tarmog‘idagi obro‘sizlantirilgan kompyuterlar bu-?
 
-====Tarmoqlararo ekran.
+Botnet.
 
-====Antivirus.
+Backdoors.
 
-====Router.
+Adware.
 
-++++
+Virus.
 
  
 
-Qaysi tarmoq himoya vositasi tarmoq manzili, identifikatorlar, interfeys manzili, port nomeri va boshqa parametrlar yordamida filtrlashni amalga oshiradi.====
+№ 177.
 
-#Tarmoqlararo ekran.
+Manba: 
 
-====Antivirus.
+Qiyinlik darajasi – 3
 
-====Router.
+Biror mantiqiy shartni tekshiruvchi trigger va foydali yuklamadan iborat zararli dastur turi bu-?
 
-====Virtual himoyalangan tarmoq.
+Mantiqiy bombalar.
 
-++++
+Backdoors.
 
+Adware.
+
+Virus.
+
  
+
+№ 178.
 
-Qaysi himoya vositasida mavjud paket shifrlangan holda yangi hosil qilingan mantiqiy paket ichiga kiritiladi?====
+Manba: 
 
-#Virtual  Private Network.
+Qiyinlik darajasi – 3
 
-====Tarmoqlararo ekran.
+Buzg‘unchiga xavfsizlik tizimini aylanib o‘tib tizimga kirish imkonini beruvchi zararli dastur turi bu-?
 
-====Antivirus.
+Backdoors.
 
-====Router.
+Adware.
 
-++++
+Virus.
 
+Troyan otlari.
+
  
+
+№ 179.
+
+Manba: 
 
-Jumlani to‘ldiring. Autentifikatsiya tizimlari asoslanishiga ko‘ra ... turga bo‘linadi.====
+Qiyinlik darajasi – 3
 
-#3
+Ma’lumotni to‘liq qayta tiklash qachon samarali amalga oshiriladi?
 
-====2
+Saqlagichda ma’lumot qayta yozilmagan bo‘lsa.
 
-====4
+Ma’lumotni o‘chirish Delete buyrug‘i bilan amalga oshirilgan bo‘lsa.
 
-====5
+Ma’lumotni o‘chirish Shifr+Delete buyrug‘i bilan amalga oshirilgan bo‘lsa.
 
-++++
+Formatlash asosida ma’lumot o‘chirilgan bo‘lsa.
 
  
 
-Ma’lumotni zaxira nusxalash nima uchun potensial tahdidlarni paydo bo‘lish ehtimolini oshiradi.====
+№ 180.
 
-#Tahdidchi uchun nishon ko‘payadi.
+Manba: 
 
-====Saqlanuvchi ma’lumot hajmi ortadi.
+Qiyinlik darajasi – 3
 
-====Ma’lumotni butunligi ta’minlanadi.
+Ma’lumotni zaxira nusxalash nima uchun potensial tahdidlarni paydo bo‘lish ehtimolini oshiradi.
 
-====Ma’lumot yo‘qolgan taqdirda ham tiklash imkoniyati mavjud bo‘ladi.
+Tahdidchi uchun nishon ko‘payadi.
 
-++++
+Saqlanuvchi ma’lumot hajmi ortadi.
 
+Ma’lumotni butunligi ta’minlanadi.
+
+Ma’lumot yo‘qolgan taqdirda ham tiklash imkoniyati mavjud bo‘ladi.
+
  
+
+№ 181.
 
-Qaysi xususiyatlar RAID texnologiyasiga xos emas?====
+Manba: 
 
-#Shaxsiy kompyuterda foydalanish mumkin.
+Qiyinlik darajasi – 3
 
-====Serverlarda foydalanish mumkin.
+Qaysi xususiyatlar RAID texnologiyasiga xos emas?
 
-====Xatoliklarni nazoratlash mumkin.
+Shaxsiy kompyuterda foydalanish mumkin.
 
-====Disklarni “qaynoq almashtirish” mumkin.
+Serverlarda foydalanish mumkin.
 
-++++
+Xatoliklarni nazoratlash mumkin.
 
+Disklarni “qaynoq almashtirish” mumkin.
+
  
+
+№ 182.
+
+Manba: 
 
-Qaysi zaxira nusxalash vositasi oddiy kompyuterlarda foydalanish uchun qo‘shimcha apparat va dasturiy vositani talab qiladi?====
+Qiyinlik darajasi – 3
 
-#Lentali disklar.
+Qaysi zaxira nusxalash vositasi oddiy kompyuterlarda foydalanish uchun qo‘shimcha apparat va dasturiy vositani talab qiladi?
 
-====USB disklar.
+Lentali disklar.
 
-====Ko‘chma qattiq disklar.
+Ko‘chma qattiq disklar.
 
-====CD/DVD disklar.
+USB disklar.
 
-++++
+CD/DVD disklar.
 
  
 
-Biror mantiqiy shartni tekshiruvchi trigger va foydali yuklamadan iborat zararli dastur turi bu-?====
+№ 183.
 
-#Mantiqiy bombalar.
+Manba: 
 
-====Backdoors.
+Qiyinlik darajasi – 3
 
-====Virus.
+Ma’lumotlarni zaxira nusxalash strategiyasi nimadan boshlanadi?
 
-====Adware.
+Zarur axborotni tanlashdan.
 
-++++
+Mos zaxira nusxalash vositasini tanlashdan.
 
+Mos zaxira nusxalash usulini tanlashdan.
+
+Mos RAID sathini tanlashdan.
+
  
+
+№ 184.
 
-Jumlani to‘ldiring. .... -  muhim bo‘lgan axborot nusxalash yoki saqlash jarayoni bo‘lib, bu ma’lumot yo‘qolgan vaqtda qayta tiklash imkoniyatini beradi.====
+Manba: 
 
-#Ma’lumotlarni zaxira nusxalash
+Qiyinlik darajasi – 3
 
-====Kriptografik himoya
+Jumlani to‘ldiring. .... -  muhim bo‘lgan axborot nusxalash yoki saqlash jarayoni bo‘lib, bu ma’lumot yo‘qolgan vaqtda qayta tiklash imkoniyatini beradi.
 
-====VPN
+Ma’lumotlarni zaxira nusxalash
 
-====Tarmoqlararo ekran
+Kriptografik himoya
 
-++++
+VPN
 
+Tarmoqlararo ekran
+
  
+
+№ 185.
+
+Manba: 
 
-Axborotni foydalanuvchanligini buzishga qaratilgan tahdidlar bu?====
+Qiyinlik darajasi – 3
 
-#DDOS tahdidlar.
+Paket filteri turidagi tarmoqlararo ekran vositasi nima asosida tekshirishni amalga oshiradi?
 
-====Nusxalash tahdidlari.
+Tarmoq sathi parametrlari asosida.
 
-====O‘rtaga turgan odam tahdidi.
+Kanal sathi parametrlari asosida.
 
-====Modifikatsiyalash tahdidlari.
+Ilova sathi parametrlari asosida.
 
-++++
+Taqdimot sathi parametrlari asosida.
 
  
 
-Tasodifiy tahdidlarni ko‘rsating?====
+№ 186.
 
-#Texnik vositalarning buzilishi va ishlamasligi.
+Manba: 
 
-====Axborotdan ruxsatsiz foydalanish.
+Qiyinlik darajasi – 3
 
-====Zararkunanda dasturlar.
+Jumlani to‘ldiring. ... texnologiyasi lokal simsiz tarmoqlarga tegishli.
 
-====An’anaviy josuslik va diversiya.
+WI-FI
 
-++++
+WI-MAX
 
+GSM
+
+Bluetooth
+
  
+
+№ 187.
+
+Manba: 
 
-Jumlani to‘ldiring. Kriptografik himoya axborotning ... xususiyatini ta’minlamaydi.====
+Qiyinlik darajasi – 3
 
-#Foydalanuvchanlik
+Jumlani to‘ldiring. Kriptografik himoya axborotning ... xususiyatini ta’minlamaydi.
 
-====Butunlik
+Foydalanuvchanlik
 
-====Maxfiylik
+Butunlik
 
-====Autentifikatsiya
+Maxfiylik
 
-++++
+Autentifikatsiya
 
  
 
-Jumlani to‘ldiring. Parol kalitdan .... farq qiladi.====
+№ 188.
 
-#tasodifiylik darajasi bilan
+Manba: 
 
-====uzunligi bilan
+Qiyinlik darajasi – 3
 
-====belgilari bilan
+Jumlani to‘ldiring. Parol kalitdan .... farq qiladi.
 
-====samaradorligi bilan
+tasodifiylik darajasi bilan
 
-++++
+uzunligi bilan
 
+belgilari bilan
+
+samaradorligi bilan
+
  
+
+№ 189.
 
-Parolga “tuz”ni qo‘shib xeshlashdan maqsad?====
+Manba: 
 
-#Tahdidchi ishini oshirish.
+Qiyinlik darajasi – 3
 
-====Murakkab parol hosil qilish.
+Parolga “tuz”ni qo‘shib xeshlashdan maqsad?
 
-====Murakkab xesh qiymat hosil qilish.
+Tahdidchi ishini oshirish.
 
-====Ya’na bir maxfiy parametr kiritish.
+Murakkab parol hosil qilish.
 
-++++
+Murakkab xesh qiymat hosil qilish.
 
+Ya’na bir maxfiy parametr kiritish.
+
  
+
+№ 190.
+
+Manba: 
 
-Paket filteri turidagi tarmoqlararo ekran vositasi nima asosida tekshirishni amalga oshiradi?====
+Qiyinlik darajasi – 3
 
-#Tarmoq sathi parametrlari asosida.
+Axborotni foydalanuvchanligini buzishga qaratilgan tahdidlar bu?
 
-====Kanal sathi parametrlari asosida.
+DDOS tahdidlar.
 
-====Ilova sathi parametrlari asosida.
+Nusxalash tahdidlari.
 
-====Taqdimot sathi parametrlari asosida.
+Modifikatsiyalash tahdidlari.
 
-++++
+O‘rtaga turgan odam tahdidi.
 
  
 
-Jumlani to‘ldiring. ... texnologiyasi lokal simsiz tarmoqlarga tegishli.====
+№ 191.
 
-#WI-FI
+Manba: 
 
-====WI-MAX
+Qiyinlik darajasi – 3
 
-====Bluetooth
+Tasodifiy tahdidlarni ko‘rsating?
 
-====GSM
+Texnik vositalarning buzilishi va ishlamasligi.
 
-++++
+Axborotdan ruxsatsiz foydalanish.
 
+Zararkunanda dasturlar.
+
+An’anaviy josuslik va diversiya.
+
  
+
+№ 192.
 
-Xodimlarga faqat ruxsat etilgan saytlardan foydalanishga imkon beruvchi himoya vositasi bu?====
+Manba: 
 
-#Tarmoqlararo ekran.
+Qiyinlik darajasi – 3
 
-====Virtual  Private Network.
+Xodimlarga faqat ruxsat etilgan saytlardan foydalanishga imkon beruvchi himoya vositasi bu?
 
-====Antivirus.
+Tarmoqlararo ekran.
 
-====Router.
+Virtual  Private Network.
 
-++++
+Antivirus.
 
+Router.
+
  
+
+№ 193.
 
-Internet tarmog‘idagi obro‘sizlantirilgan kompyuterlar bu-?====
+Manba: 
 
-#Botnet.
+Qiyinlik darajasi – 3
 
-====Adware.
+Qaysi himoya vositasi yetkazilgan axborotning butunligini tekshiradi?
 
-====Backdoors.
+Virtual  Private Network.
 
-====Virus.
+Tarmoqlararo ekran.
 
-++++
+Antivirus.
 
+Router.
+
  
+
+№ 194.
 
-Virus aniq bo‘lganda va xususiyatlari aniq ajratilgan holatda eng katta samaradorlikka ega zararli dasturni aniqlash usulini ko‘rsating?====
+Manba: 
 
-#Signaturaga asoslangan usul
+Qiyinlik darajasi – 3
 
-====Anomaliyaga asoslangan usul
+Qaysi himoya vositasi tomonlarni autentifikatsiyalash imkoniyatini beradi?
 
-====O‘zgarishga asoslangan usul
+Virtual  Private Network.
 
-====Barcha javoblar to‘g‘ri
+Tarmoqlararo ekran.
 
-++++
+Antivirus.
 
+Router.
+
  
+
+№ 195.
+
+Manba: 
 
-Qalbakilashtirish hujumi qaysi turdagi autentifikatsiya usuliga qaratilgan.====
+Qiyinlik darajasi – 3
 
-#Biometrik autentifikatsiya.
+Foydalanuvchi tomonidan kiritilgan taqiqlangan so‘rovni qaysi himoya vositasi yordamida nazoratlash mumkin.
 
-====Tokenga asoslangan autentifikatsiya
+Tarmoqlararo ekran.
 
-====Biror narsaga egalik qilishga asoslangan autentifikatsiya.
+Virtual  Private Network.
 
-====Biror narsani bilishga asoslangan autentifikatsiya.
+Antivirus.
 
-++++
+Router.
 
  
 
-Qaysi himoya vositasi mavjud IP - paketni to‘liq shifrlab, unga yangi IP sarlavha beradi?====
+№ 196.
 
-#Virtual  Private Network.
+Manba: 
 
-====Router.
+Qiyinlik darajasi – 3
 
-====Antivirus.
+Qaysi himoya vositasi mavjud IP - paketni to‘liq shifrlab, unga yangi IP sarlavha beradi?
 
-====Tarmoqlararo ekran
+Virtual  Private Network.
 
-++++
+Tarmoqlararo ekran.
 
+Antivirus.
+
+Router.
+
  
+
+№ 197.
 
-Zararli dasturiy vositalarga qarshi foydalaniluvchi dasturiy vosita bu?====
+Manba: 
 
-#Antivirus
+Qiyinlik darajasi – 3
 
-====VPN
+Ochiq tarmoq yordamida himoyalangan tarmoqni qurish imkoniyatiga ega himoya vositasi bu?
 
-====Tarmoqlararo ekran
+Virtual  Private Network.
 
-====Brandmauer
+Tapmoklapapo ekran.
 
-++++
+Antivirus.
 
+Router.
+
  
+
+№ 198.
+
+Manba: 
 
-Signatura (antiviruslarga aloqador bo‘lgan)  bu-?====
+Qiyinlik darajasi – 3
 
-#Fayldan topilgan bitlar qatori.
+Qaysi himoya vositasida mavjud paket shifrlangan holda yangi hosil qilingan mantiqiy paket ichiga kiritiladi?
 
-====Fayldagi yoki katalogdagi o‘zgarish.
+Virtual  Private Network.
 
-====Zararli dastur turi.
+Tarmoqlararo ekran.
 
-====Normal holatdan tashqari holat.
+Antivirus.
 
-++++
+Router.
 
  
 
-Qaysi himoya vositasi tarmoqda uzatilayotgan axborotni butunligi, maxfiyligi va tomonlar autentifikatsiyasini ta’minlaydi?====
+№ 199.
 
-#Virtual  Private Network.
+Manba: 
 
-====Tarmoqlararo ekran.
+Qiyinlik darajasi – 3
 
-====Antivirus.
+Qaysi himoya vositasi tarmoqda uzatilayotgan axborotni butunligi, maxfiyligi va tomonlar autentifikatsiyasini ta’minlaydi?
 
-====Router.
+Virtual  Private Network.
 
-++++
+Tarmoqlararo ekran.
 
+Antivirus.
+
+Router.
+
  
+
+№ 200.
+
+Manba: 
 
-Ma’lumotlarni zaxira nusxalash strategiyasi nimadan boshlanadi?====
+Qiyinlik darajasi – 3
 
-#Zarur axborotni tanlashdan.
+Qaysi tarmoq himoya vositasi tarmoq manzili, identifikatorlar, interfeys manzili, port nomeri va boshqa parametrlar yordamida filtrlashni amalga oshiradi.
 
-====Mos zaxira nusxalash vositasini tanlashdan.
+Tarmoqlararo ekran.
 
-====Mos RAID sathini tanlashdan.
+Antivirus.
 
-====Mos zaxira nusxalash usulini tanlashdan.
+Virtual himoyalangan tarmoq.
 
-++++
+Router.
 
+Foydalanilgan adabiyotlar
 
+Kiberxavfsizlik asoslari: O‘quv qo‘llanma/S.K.Ganiev, A.A.Ganiev,  Z.T.Xudoyqulov; – T.: “Iqtisod-Moliya”, 2021. – 228 b.
 
