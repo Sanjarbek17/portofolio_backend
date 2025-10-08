@@ -7,9 +7,9 @@ import os
 class ApplicationVersion(models.Model):
     version = models.CharField(max_length=20)
     build_number = models.IntegerField()
-    download_url = models.URLField()
-    checksum = models.CharField(max_length=64)
-    file_size = models.BigIntegerField()
+    download_file = models.FileField(upload_to="updates/", blank=True, null=True)
+    checksum = models.CharField(max_length=64, blank=True)
+    file_size = models.BigIntegerField(blank=True, null=True)
     release_notes = models.TextField()
     is_critical = models.BooleanField(default=False)
     minimum_version = models.CharField(max_length=20, blank=True, null=True)
@@ -25,20 +25,41 @@ class ApplicationVersion(models.Model):
     def __str__(self):
         return f"SenseLite v{self.version} (Build {self.build_number})"
 
+    @property
+    def download_url(self):
+        """Get the download URL for the file"""
+        if self.download_file:
+            return self.download_file.url
+        return None
+
     def save(self, *args, **kwargs):
-        # Auto-calculate checksum if file exists
-        if self.download_url and not self.checksum:
-            self.checksum = self.calculate_checksum()
+        # Auto-calculate file size and checksum if file exists
+        if self.download_file:
+            if not self.file_size:
+                self.file_size = self.download_file.size
+            if not self.checksum:
+                self.checksum = self.calculate_checksum()
         super().save(*args, **kwargs)
 
     def calculate_checksum(self):
         """Calculate SHA256 checksum of the file"""
-        try:
-            # This is a simple example - in production, you'd want to
-            # calculate the checksum of the actual file
-            return "sha256:placeholder-checksum"
-        except Exception:
+        if not self.download_file:
             return ""
+
+        try:
+            import hashlib
+
+            hash_sha256 = hashlib.sha256()
+
+            # Read file in chunks to handle large files
+            self.download_file.seek(0)
+            for chunk in iter(lambda: self.download_file.read(4096), b""):
+                hash_sha256.update(chunk)
+            self.download_file.seek(0)  # Reset file pointer
+
+            return f"sha256:{hash_sha256.hexdigest()}"
+        except Exception as e:
+            return f"sha256:error-{str(e)[:20]}"
 
     def is_newer_than(self, current_version, current_build):
         """Check if this version is newer than the provided version"""
