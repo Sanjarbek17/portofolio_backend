@@ -155,3 +155,14 @@ REST_FRAMEWORK = {
     ],
     "DEFAULT_THROTTLE_RATES": {"anon": "100/hour"},
 }
+
+# CSRF and security settings for Cloudflare/proxy setup
+CSRF_TRUSTED_ORIGINS = ['https://sanjarbek17.uz', 'https://*.sanjarbek17.uz']
+
+# Tell Django to trust the X-Forwarded-Proto header from Cloudflare
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
+# Optional: Additional security settings for production
+SECURE_SSL_REDIRECT = False  # Cloudflare handles this
+SESSION_COOKIE_SECURE = True
+CSRF_COOKIE_SECURE = True
