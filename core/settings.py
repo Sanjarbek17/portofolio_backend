@@ -64,6 +64,9 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = "core.urls"
 
+# Automatically append slash to URLs if not found
+APPEND_SLASH = True
+
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
@@ -157,10 +160,10 @@ REST_FRAMEWORK = {
 }
 
 # CSRF and security settings for Cloudflare/proxy setup
-CSRF_TRUSTED_ORIGINS = ['https://sanjarbek17.uz', 'https://*.sanjarbek17.uz']
+CSRF_TRUSTED_ORIGINS = ["https://sanjarbek17.uz", "https://*.sanjarbek17.uz"]
 
 # Tell Django to trust the X-Forwarded-Proto header from Cloudflare
-SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
 
 # Optional: Additional security settings for production
 SECURE_SSL_REDIRECT = False  # Cloudflare handles this
